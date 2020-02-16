@@ -1,0 +1,9 @@
+D:\範例程式\ch04\字串相加\bin\Debug\字串相加.exe.config
+D:\範例程式\ch04\字串相加\bin\Debug\字串相加.exe
+D:\範例程式\ch04\字串相加\bin\Debug\字串相加.pdb
+D:\範例程式\ch04\字串相加\bin\Debug\字串相加.xml
+D:\範例程式\ch04\字串相加\obj\Debug\字串相加.Resources.resources
+D:\範例程式\ch04\字串相加\obj\Debug\字串相加.vbproj.GenerateResource.Cache
+D:\範例程式\ch04\字串相加\obj\Debug\字串相加.exe
+D:\範例程式\ch04\字串相加\obj\Debug\字串相加.xml
+D:\範例程式\ch04\字串相加\obj\Debug\字串相加.pdb

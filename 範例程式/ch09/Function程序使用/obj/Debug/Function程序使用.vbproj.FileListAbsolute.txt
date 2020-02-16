@@ -1,0 +1,10 @@
+D:\範例程式\ch09\Function程序使用\bin\Debug\Function程序使用.exe.config
+D:\範例程式\ch09\Function程序使用\bin\Debug\Function程序使用.exe
+D:\範例程式\ch09\Function程序使用\bin\Debug\Function程序使用.pdb
+D:\範例程式\ch09\Function程序使用\bin\Debug\Function程序使用.xml
+D:\範例程式\ch09\Function程序使用\obj\Debug\Function程序使用.Form1.resources
+D:\範例程式\ch09\Function程序使用\obj\Debug\Function程序使用.Resources.resources
+D:\範例程式\ch09\Function程序使用\obj\Debug\Function程序使用.vbproj.GenerateResource.Cache
+D:\範例程式\ch09\Function程序使用\obj\Debug\Function程序使用.exe
+D:\範例程式\ch09\Function程序使用\obj\Debug\Function程序使用.xml
+D:\範例程式\ch09\Function程序使用\obj\Debug\Function程序使用.pdb

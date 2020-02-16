@@ -1,0 +1,9 @@
+D:\範例程式\ch15\DrawString\bin\Debug\DrawString.exe.config
+D:\範例程式\ch15\DrawString\bin\Debug\DrawString.exe
+D:\範例程式\ch15\DrawString\bin\Debug\DrawString.pdb
+D:\範例程式\ch15\DrawString\bin\Debug\DrawString.xml
+D:\範例程式\ch15\DrawString\obj\Debug\DrawString.Resources.resources
+D:\範例程式\ch15\DrawString\obj\Debug\DrawString.vbproj.GenerateResource.Cache
+D:\範例程式\ch15\DrawString\obj\Debug\DrawString.exe
+D:\範例程式\ch15\DrawString\obj\Debug\DrawString.xml
+D:\範例程式\ch15\DrawString\obj\Debug\DrawString.pdb

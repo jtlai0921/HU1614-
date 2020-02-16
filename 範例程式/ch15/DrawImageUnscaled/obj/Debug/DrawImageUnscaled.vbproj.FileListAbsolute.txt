@@ -1,0 +1,9 @@
+D:\範例程式\ch15\DrawImageUnscaled\bin\Debug\DrawImageUnscaled.exe.config
+D:\範例程式\ch15\DrawImageUnscaled\bin\Debug\DrawImageUnscaled.exe
+D:\範例程式\ch15\DrawImageUnscaled\bin\Debug\DrawImageUnscaled.pdb
+D:\範例程式\ch15\DrawImageUnscaled\bin\Debug\DrawImageUnscaled.xml
+D:\範例程式\ch15\DrawImageUnscaled\obj\Debug\DrawImageUnscaled.Resources.resources
+D:\範例程式\ch15\DrawImageUnscaled\obj\Debug\DrawImageUnscaled.vbproj.GenerateResource.Cache
+D:\範例程式\ch15\DrawImageUnscaled\obj\Debug\DrawImageUnscaled.exe
+D:\範例程式\ch15\DrawImageUnscaled\obj\Debug\DrawImageUnscaled.xml
+D:\範例程式\ch15\DrawImageUnscaled\obj\Debug\DrawImageUnscaled.pdb

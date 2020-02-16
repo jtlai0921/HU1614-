@@ -1,0 +1,9 @@
+D:\範例程式\ch11\poly\bin\Debug\poly.exe.config
+D:\範例程式\ch11\poly\bin\Debug\poly.exe
+D:\範例程式\ch11\poly\bin\Debug\poly.pdb
+D:\範例程式\ch11\poly\bin\Debug\poly.xml
+D:\範例程式\ch11\poly\obj\Debug\poly.Resources.resources
+D:\範例程式\ch11\poly\obj\Debug\poly.vbproj.GenerateResource.Cache
+D:\範例程式\ch11\poly\obj\Debug\poly.exe
+D:\範例程式\ch11\poly\obj\Debug\poly.xml
+D:\範例程式\ch11\poly\obj\Debug\poly.pdb

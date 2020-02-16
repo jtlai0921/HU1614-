@@ -1,0 +1,10 @@
+D:\範例程式\ch13\Timer\bin\Debug\Timer.exe.config
+D:\範例程式\ch13\Timer\obj\Debug\Timer.Timer.resources
+D:\範例程式\ch13\Timer\obj\Debug\Timer.Resources.resources
+D:\範例程式\ch13\Timer\obj\Debug\Timer.vbproj.GenerateResource.Cache
+D:\範例程式\ch13\Timer\bin\Debug\Timer.exe
+D:\範例程式\ch13\Timer\bin\Debug\Timer.pdb
+D:\範例程式\ch13\Timer\bin\Debug\Timer.xml
+D:\範例程式\ch13\Timer\obj\Debug\Timer.exe
+D:\範例程式\ch13\Timer\obj\Debug\Timer.xml
+D:\範例程式\ch13\Timer\obj\Debug\Timer.pdb

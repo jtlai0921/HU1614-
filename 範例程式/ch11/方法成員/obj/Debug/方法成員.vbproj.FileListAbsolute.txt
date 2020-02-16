@@ -1,0 +1,9 @@
+D:\範例程式\ch11\方法成員\bin\Debug\方法成員.exe.config
+D:\範例程式\ch11\方法成員\bin\Debug\方法成員.exe
+D:\範例程式\ch11\方法成員\bin\Debug\方法成員.pdb
+D:\範例程式\ch11\方法成員\bin\Debug\方法成員.xml
+D:\範例程式\ch11\方法成員\obj\Debug\方法成員.Resources.resources
+D:\範例程式\ch11\方法成員\obj\Debug\方法成員.vbproj.GenerateResource.Cache
+D:\範例程式\ch11\方法成員\obj\Debug\方法成員.exe
+D:\範例程式\ch11\方法成員\obj\Debug\方法成員.xml
+D:\範例程式\ch11\方法成員\obj\Debug\方法成員.pdb

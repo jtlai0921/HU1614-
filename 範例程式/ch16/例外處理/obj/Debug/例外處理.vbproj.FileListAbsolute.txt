@@ -1,0 +1,10 @@
+D:\範例程式\ch16\例外處理\bin\Debug\例外處理.exe.config
+D:\範例程式\ch16\例外處理\bin\Debug\例外處理.exe
+D:\範例程式\ch16\例外處理\bin\Debug\例外處理.pdb
+D:\範例程式\ch16\例外處理\bin\Debug\例外處理.xml
+D:\範例程式\ch16\例外處理\obj\Debug\例外處理.例外處理.resources
+D:\範例程式\ch16\例外處理\obj\Debug\例外處理.Resources.resources
+D:\範例程式\ch16\例外處理\obj\Debug\例外處理.vbproj.GenerateResource.Cache
+D:\範例程式\ch16\例外處理\obj\Debug\例外處理.exe
+D:\範例程式\ch16\例外處理\obj\Debug\例外處理.xml
+D:\範例程式\ch16\例外處理\obj\Debug\例外處理.pdb

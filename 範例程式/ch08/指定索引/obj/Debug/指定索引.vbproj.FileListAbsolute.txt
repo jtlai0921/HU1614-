@@ -1,0 +1,9 @@
+D:\範例程式\ch08\指定索引\bin\Debug\指定索引.exe.config
+D:\範例程式\ch08\指定索引\bin\Debug\指定索引.exe
+D:\範例程式\ch08\指定索引\bin\Debug\指定索引.pdb
+D:\範例程式\ch08\指定索引\bin\Debug\指定索引.xml
+D:\範例程式\ch08\指定索引\obj\Debug\指定索引.Resources.resources
+D:\範例程式\ch08\指定索引\obj\Debug\指定索引.vbproj.GenerateResource.Cache
+D:\範例程式\ch08\指定索引\obj\Debug\指定索引.exe
+D:\範例程式\ch08\指定索引\obj\Debug\指定索引.xml
+D:\範例程式\ch08\指定索引\obj\Debug\指定索引.pdb

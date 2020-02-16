@@ -1,0 +1,10 @@
+D:\範例程式\ch07\DoWhile\bin\Debug\DoWhile.exe.config
+D:\範例程式\ch07\DoWhile\bin\Debug\DoWhile.exe
+D:\範例程式\ch07\DoWhile\bin\Debug\DoWhile.pdb
+D:\範例程式\ch07\DoWhile\bin\Debug\DoWhile.xml
+D:\範例程式\ch07\DoWhile\obj\Debug\DoWhile.Form1.resources
+D:\範例程式\ch07\DoWhile\obj\Debug\DoWhile.Resources.resources
+D:\範例程式\ch07\DoWhile\obj\Debug\DoWhile.vbproj.GenerateResource.Cache
+D:\範例程式\ch07\DoWhile\obj\Debug\DoWhile.exe
+D:\範例程式\ch07\DoWhile\obj\Debug\DoWhile.xml
+D:\範例程式\ch07\DoWhile\obj\Debug\DoWhile.pdb

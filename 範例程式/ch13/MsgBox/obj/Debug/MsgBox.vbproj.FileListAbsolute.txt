@@ -1,0 +1,10 @@
+D:\範例程式\ch13\MsgBox\bin\Debug\MsgBox.exe.config
+D:\範例程式\ch13\MsgBox\bin\Debug\MsgBox.exe
+D:\範例程式\ch13\MsgBox\bin\Debug\MsgBox.pdb
+D:\範例程式\ch13\MsgBox\bin\Debug\MsgBox.xml
+D:\範例程式\ch13\MsgBox\obj\Debug\MsgBox.MsgBox.resources
+D:\範例程式\ch13\MsgBox\obj\Debug\MsgBox.Resources.resources
+D:\範例程式\ch13\MsgBox\obj\Debug\MsgBox.vbproj.GenerateResource.Cache
+D:\範例程式\ch13\MsgBox\obj\Debug\MsgBox.exe
+D:\範例程式\ch13\MsgBox\obj\Debug\MsgBox.xml
+D:\範例程式\ch13\MsgBox\obj\Debug\MsgBox.pdb

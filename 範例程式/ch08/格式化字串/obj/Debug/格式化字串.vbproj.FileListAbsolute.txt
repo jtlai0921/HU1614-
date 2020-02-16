@@ -1,0 +1,9 @@
+D:\範例程式\ch08\格式化字串\bin\Debug\格式化字串.exe.config
+D:\範例程式\ch08\格式化字串\bin\Debug\格式化字串.exe
+D:\範例程式\ch08\格式化字串\bin\Debug\格式化字串.pdb
+D:\範例程式\ch08\格式化字串\bin\Debug\格式化字串.xml
+D:\範例程式\ch08\格式化字串\obj\Debug\格式化字串.Resources.resources
+D:\範例程式\ch08\格式化字串\obj\Debug\格式化字串.vbproj.GenerateResource.Cache
+D:\範例程式\ch08\格式化字串\obj\Debug\格式化字串.exe
+D:\範例程式\ch08\格式化字串\obj\Debug\格式化字串.xml
+D:\範例程式\ch08\格式化字串\obj\Debug\格式化字串.pdb

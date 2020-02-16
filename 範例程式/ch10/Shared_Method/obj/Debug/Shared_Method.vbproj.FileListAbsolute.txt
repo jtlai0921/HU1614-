@@ -1,0 +1,9 @@
+D:\範例程式\ch10\Shared_Method\bin\Debug\Shared_Method.exe.config
+D:\範例程式\ch10\Shared_Method\bin\Debug\Shared_Method.exe
+D:\範例程式\ch10\Shared_Method\bin\Debug\Shared_Method.pdb
+D:\範例程式\ch10\Shared_Method\bin\Debug\Shared_Method.xml
+D:\範例程式\ch10\Shared_Method\obj\Debug\Shared_Method.Resources.resources
+D:\範例程式\ch10\Shared_Method\obj\Debug\Shared_Method.vbproj.GenerateResource.Cache
+D:\範例程式\ch10\Shared_Method\obj\Debug\Shared_Method.exe
+D:\範例程式\ch10\Shared_Method\obj\Debug\Shared_Method.xml
+D:\範例程式\ch10\Shared_Method\obj\Debug\Shared_Method.pdb

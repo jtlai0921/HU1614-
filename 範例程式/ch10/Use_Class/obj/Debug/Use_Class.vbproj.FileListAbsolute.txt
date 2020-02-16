@@ -1,0 +1,9 @@
+D:\範例程式\ch10\Use_Class\bin\Debug\Use_Class.pdb
+D:\範例程式\ch10\Use_Class\bin\Debug\Use_Class.xml
+D:\範例程式\ch10\Use_Class\obj\Debug\Use_Class.Resources.resources
+D:\範例程式\ch10\Use_Class\obj\Debug\Use_Class.vbproj.GenerateResource.Cache
+D:\範例程式\ch10\Use_Class\obj\Debug\Use_Class.xml
+D:\範例程式\ch10\Use_Class\obj\Debug\Use_Class.pdb
+D:\範例程式\ch10\Use_Class\bin\Debug\Use_Class.dll.config
+D:\範例程式\ch10\Use_Class\bin\Debug\Use_Class.dll
+D:\範例程式\ch10\Use_Class\obj\Debug\Use_Class.dll

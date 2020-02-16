@@ -1,0 +1,9 @@
+D:\範例程式\ch15\DrawRectangles\bin\Debug\DrawRectangles.exe.config
+D:\範例程式\ch15\DrawRectangles\bin\Debug\DrawRectangles.exe
+D:\範例程式\ch15\DrawRectangles\bin\Debug\DrawRectangles.pdb
+D:\範例程式\ch15\DrawRectangles\bin\Debug\DrawRectangles.xml
+D:\範例程式\ch15\DrawRectangles\obj\Debug\DrawRectangles.Resources.resources
+D:\範例程式\ch15\DrawRectangles\obj\Debug\DrawRectangles.vbproj.GenerateResource.Cache
+D:\範例程式\ch15\DrawRectangles\obj\Debug\DrawRectangles.exe
+D:\範例程式\ch15\DrawRectangles\obj\Debug\DrawRectangles.xml
+D:\範例程式\ch15\DrawRectangles\obj\Debug\DrawRectangles.pdb

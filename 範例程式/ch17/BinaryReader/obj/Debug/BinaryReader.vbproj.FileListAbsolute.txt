@@ -1,0 +1,9 @@
+D:\範例程式\ch17\BinaryReader\bin\Debug\BinaryReader.exe.config
+D:\範例程式\ch17\BinaryReader\bin\Debug\BinaryReader.exe
+D:\範例程式\ch17\BinaryReader\bin\Debug\BinaryReader.pdb
+D:\範例程式\ch17\BinaryReader\bin\Debug\BinaryReader.xml
+D:\範例程式\ch17\BinaryReader\obj\Debug\BinaryReader.Resources.resources
+D:\範例程式\ch17\BinaryReader\obj\Debug\BinaryReader.vbproj.GenerateResource.Cache
+D:\範例程式\ch17\BinaryReader\obj\Debug\BinaryReader.exe
+D:\範例程式\ch17\BinaryReader\obj\Debug\BinaryReader.xml
+D:\範例程式\ch17\BinaryReader\obj\Debug\BinaryReader.pdb

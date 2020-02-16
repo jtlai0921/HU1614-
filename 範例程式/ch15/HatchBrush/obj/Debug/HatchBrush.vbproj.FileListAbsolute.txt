@@ -1,0 +1,9 @@
+D:\範例程式\ch15\HatchBrush\bin\Debug\HatchBrush.exe.config
+D:\範例程式\ch15\HatchBrush\bin\Debug\HatchBrush.exe
+D:\範例程式\ch15\HatchBrush\bin\Debug\HatchBrush.pdb
+D:\範例程式\ch15\HatchBrush\bin\Debug\HatchBrush.xml
+D:\範例程式\ch15\HatchBrush\obj\Debug\HatchBrush.Resources.resources
+D:\範例程式\ch15\HatchBrush\obj\Debug\HatchBrush.vbproj.GenerateResource.Cache
+D:\範例程式\ch15\HatchBrush\obj\Debug\HatchBrush.exe
+D:\範例程式\ch15\HatchBrush\obj\Debug\HatchBrush.xml
+D:\範例程式\ch15\HatchBrush\obj\Debug\HatchBrush.pdb

@@ -1,0 +1,9 @@
+D:\範例程式\ch16\例外捕捉條件設定\bin\Debug\例外捕捉條件設定.exe.config
+D:\範例程式\ch16\例外捕捉條件設定\bin\Debug\例外捕捉條件設定.exe
+D:\範例程式\ch16\例外捕捉條件設定\bin\Debug\例外捕捉條件設定.pdb
+D:\範例程式\ch16\例外捕捉條件設定\bin\Debug\例外捕捉條件設定.xml
+D:\範例程式\ch16\例外捕捉條件設定\obj\Debug\例外捕捉條件設定.Resources.resources
+D:\範例程式\ch16\例外捕捉條件設定\obj\Debug\例外捕捉條件設定.vbproj.GenerateResource.Cache
+D:\範例程式\ch16\例外捕捉條件設定\obj\Debug\例外捕捉條件設定.exe
+D:\範例程式\ch16\例外捕捉條件設定\obj\Debug\例外捕捉條件設定.xml
+D:\範例程式\ch16\例外捕捉條件設定\obj\Debug\例外捕捉條件設定.pdb

@@ -1,0 +1,9 @@
+D:\範例程式\ch16\使用Finally區塊\bin\Debug\使用Finally區塊.exe.config
+D:\範例程式\ch16\使用Finally區塊\bin\Debug\使用Finally區塊.exe
+D:\範例程式\ch16\使用Finally區塊\bin\Debug\使用Finally區塊.pdb
+D:\範例程式\ch16\使用Finally區塊\bin\Debug\使用Finally區塊.xml
+D:\範例程式\ch16\使用Finally區塊\obj\Debug\使用Finally區塊.Resources.resources
+D:\範例程式\ch16\使用Finally區塊\obj\Debug\使用Finally區塊.vbproj.GenerateResource.Cache
+D:\範例程式\ch16\使用Finally區塊\obj\Debug\使用Finally區塊.exe
+D:\範例程式\ch16\使用Finally區塊\obj\Debug\使用Finally區塊.xml
+D:\範例程式\ch16\使用Finally區塊\obj\Debug\使用Finally區塊.pdb

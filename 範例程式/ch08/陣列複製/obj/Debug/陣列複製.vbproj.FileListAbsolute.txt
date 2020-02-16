@@ -1,0 +1,9 @@
+D:\範例程式\ch08\陣列複製\bin\Debug\陣列複製.exe.config
+D:\範例程式\ch08\陣列複製\bin\Debug\陣列複製.exe
+D:\範例程式\ch08\陣列複製\bin\Debug\陣列複製.pdb
+D:\範例程式\ch08\陣列複製\bin\Debug\陣列複製.xml
+D:\範例程式\ch08\陣列複製\obj\Debug\陣列複製.Resources.resources
+D:\範例程式\ch08\陣列複製\obj\Debug\陣列複製.vbproj.GenerateResource.Cache
+D:\範例程式\ch08\陣列複製\obj\Debug\陣列複製.exe
+D:\範例程式\ch08\陣列複製\obj\Debug\陣列複製.xml
+D:\範例程式\ch08\陣列複製\obj\Debug\陣列複製.pdb

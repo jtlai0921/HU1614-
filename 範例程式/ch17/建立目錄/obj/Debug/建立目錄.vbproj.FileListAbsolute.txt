@@ -1,0 +1,10 @@
+D:\範例程式\ch17\建立目錄\bin\Debug\建立目錄.exe.config
+D:\範例程式\ch17\建立目錄\bin\Debug\建立目錄.exe
+D:\範例程式\ch17\建立目錄\bin\Debug\建立目錄.pdb
+D:\範例程式\ch17\建立目錄\bin\Debug\建立目錄.xml
+D:\範例程式\ch17\建立目錄\obj\Debug\建立目錄.建立目錄.resources
+D:\範例程式\ch17\建立目錄\obj\Debug\建立目錄.Resources.resources
+D:\範例程式\ch17\建立目錄\obj\Debug\建立目錄.vbproj.GenerateResource.Cache
+D:\範例程式\ch17\建立目錄\obj\Debug\建立目錄.exe
+D:\範例程式\ch17\建立目錄\obj\Debug\建立目錄.xml
+D:\範例程式\ch17\建立目錄\obj\Debug\建立目錄.pdb

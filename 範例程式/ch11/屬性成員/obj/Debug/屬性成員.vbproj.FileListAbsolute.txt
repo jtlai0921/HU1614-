@@ -1,0 +1,9 @@
+D:\範例程式\ch11\屬性成員\bin\Debug\屬性成員.exe.config
+D:\範例程式\ch11\屬性成員\bin\Debug\屬性成員.exe
+D:\範例程式\ch11\屬性成員\bin\Debug\屬性成員.pdb
+D:\範例程式\ch11\屬性成員\bin\Debug\屬性成員.xml
+D:\範例程式\ch11\屬性成員\obj\Debug\屬性成員.Resources.resources
+D:\範例程式\ch11\屬性成員\obj\Debug\屬性成員.vbproj.GenerateResource.Cache
+D:\範例程式\ch11\屬性成員\obj\Debug\屬性成員.exe
+D:\範例程式\ch11\屬性成員\obj\Debug\屬性成員.xml
+D:\範例程式\ch11\屬性成員\obj\Debug\屬性成員.pdb

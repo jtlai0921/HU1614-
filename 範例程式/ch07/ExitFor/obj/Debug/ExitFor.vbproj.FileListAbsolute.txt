@@ -1,0 +1,10 @@
+D:\範例程式\ch07\ExitFor\bin\Debug\ExitFor.exe.config
+D:\範例程式\ch07\ExitFor\bin\Debug\ExitFor.exe
+D:\範例程式\ch07\ExitFor\bin\Debug\ExitFor.pdb
+D:\範例程式\ch07\ExitFor\bin\Debug\ExitFor.xml
+D:\範例程式\ch07\ExitFor\obj\Debug\ExitFor.Form1.resources
+D:\範例程式\ch07\ExitFor\obj\Debug\ExitFor.Resources.resources
+D:\範例程式\ch07\ExitFor\obj\Debug\ExitFor.vbproj.GenerateResource.Cache
+D:\範例程式\ch07\ExitFor\obj\Debug\ExitFor.exe
+D:\範例程式\ch07\ExitFor\obj\Debug\ExitFor.xml
+D:\範例程式\ch07\ExitFor\obj\Debug\ExitFor.pdb

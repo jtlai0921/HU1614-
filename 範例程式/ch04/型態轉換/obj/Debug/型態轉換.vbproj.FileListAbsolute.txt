@@ -1,0 +1,9 @@
+D:\範例程式\ch04\型態轉換\bin\Debug\型態轉換.exe.config
+D:\範例程式\ch04\型態轉換\bin\Debug\型態轉換.exe
+D:\範例程式\ch04\型態轉換\bin\Debug\型態轉換.pdb
+D:\範例程式\ch04\型態轉換\bin\Debug\型態轉換.xml
+D:\範例程式\ch04\型態轉換\obj\Debug\型態轉換.Resources.resources
+D:\範例程式\ch04\型態轉換\obj\Debug\型態轉換.vbproj.GenerateResource.Cache
+D:\範例程式\ch04\型態轉換\obj\Debug\型態轉換.exe
+D:\範例程式\ch04\型態轉換\obj\Debug\型態轉換.xml
+D:\範例程式\ch04\型態轉換\obj\Debug\型態轉換.pdb

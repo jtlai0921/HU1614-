@@ -1,0 +1,10 @@
+D:\範例程式\ch09\跳出程序\bin\Debug\跳出程序.exe.config
+D:\範例程式\ch09\跳出程序\bin\Debug\跳出程序.exe
+D:\範例程式\ch09\跳出程序\bin\Debug\跳出程序.pdb
+D:\範例程式\ch09\跳出程序\bin\Debug\跳出程序.xml
+D:\範例程式\ch09\跳出程序\obj\Debug\跳出程序.Form1.resources
+D:\範例程式\ch09\跳出程序\obj\Debug\跳出程序.Resources.resources
+D:\範例程式\ch09\跳出程序\obj\Debug\跳出程序.vbproj.GenerateResource.Cache
+D:\範例程式\ch09\跳出程序\obj\Debug\跳出程序.exe
+D:\範例程式\ch09\跳出程序\obj\Debug\跳出程序.xml
+D:\範例程式\ch09\跳出程序\obj\Debug\跳出程序.pdb

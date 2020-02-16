@@ -1,0 +1,10 @@
+D:\範例程式\ch13\FontDialog\bin\Debug\FontDialog.exe.config
+D:\範例程式\ch13\FontDialog\obj\Debug\FontDialog.FontDialog.resources
+D:\範例程式\ch13\FontDialog\obj\Debug\FontDialog.Resources.resources
+D:\範例程式\ch13\FontDialog\obj\Debug\FontDialog.vbproj.GenerateResource.Cache
+D:\範例程式\ch13\FontDialog\bin\Debug\FontDialog.exe
+D:\範例程式\ch13\FontDialog\bin\Debug\FontDialog.pdb
+D:\範例程式\ch13\FontDialog\bin\Debug\FontDialog.xml
+D:\範例程式\ch13\FontDialog\obj\Debug\FontDialog.exe
+D:\範例程式\ch13\FontDialog\obj\Debug\FontDialog.xml
+D:\範例程式\ch13\FontDialog\obj\Debug\FontDialog.pdb

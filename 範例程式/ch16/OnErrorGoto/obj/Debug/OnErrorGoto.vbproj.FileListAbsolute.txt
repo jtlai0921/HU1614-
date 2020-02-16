@@ -1,0 +1,9 @@
+D:\範例程式\ch16\OnErrorGoto\bin\Debug\OnErrorGoto.exe.config
+D:\範例程式\ch16\OnErrorGoto\bin\Debug\OnErrorGoto.exe
+D:\範例程式\ch16\OnErrorGoto\bin\Debug\OnErrorGoto.pdb
+D:\範例程式\ch16\OnErrorGoto\bin\Debug\OnErrorGoto.xml
+D:\範例程式\ch16\OnErrorGoto\obj\Debug\OnErrorGoto.Resources.resources
+D:\範例程式\ch16\OnErrorGoto\obj\Debug\OnErrorGoto.vbproj.GenerateResource.Cache
+D:\範例程式\ch16\OnErrorGoto\obj\Debug\OnErrorGoto.exe
+D:\範例程式\ch16\OnErrorGoto\obj\Debug\OnErrorGoto.xml
+D:\範例程式\ch16\OnErrorGoto\obj\Debug\OnErrorGoto.pdb

@@ -1,0 +1,9 @@
+D:\範例程式\Ex4\Exam7\bin\Debug\Exam7.exe.config
+D:\範例程式\Ex4\Exam7\bin\Debug\Exam7.exe
+D:\範例程式\Ex4\Exam7\bin\Debug\Exam7.pdb
+D:\範例程式\Ex4\Exam7\bin\Debug\Exam7.xml
+D:\範例程式\Ex4\Exam7\obj\Debug\Exam7.Resources.resources
+D:\範例程式\Ex4\Exam7\obj\Debug\Exam7.vbproj.GenerateResource.Cache
+D:\範例程式\Ex4\Exam7\obj\Debug\Exam7.exe
+D:\範例程式\Ex4\Exam7\obj\Debug\Exam7.xml
+D:\範例程式\Ex4\Exam7\obj\Debug\Exam7.pdb

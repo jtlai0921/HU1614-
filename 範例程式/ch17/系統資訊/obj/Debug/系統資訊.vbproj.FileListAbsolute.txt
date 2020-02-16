@@ -1,0 +1,10 @@
+D:\範例程式\ch17\系統資訊\bin\Debug\系統資訊.exe.config
+D:\範例程式\ch17\系統資訊\bin\Debug\系統資訊.exe
+D:\範例程式\ch17\系統資訊\bin\Debug\系統資訊.pdb
+D:\範例程式\ch17\系統資訊\bin\Debug\系統資訊.xml
+D:\範例程式\ch17\系統資訊\obj\Debug\系統資訊.系統資訊.resources
+D:\範例程式\ch17\系統資訊\obj\Debug\系統資訊.Resources.resources
+D:\範例程式\ch17\系統資訊\obj\Debug\系統資訊.vbproj.GenerateResource.Cache
+D:\範例程式\ch17\系統資訊\obj\Debug\系統資訊.exe
+D:\範例程式\ch17\系統資訊\obj\Debug\系統資訊.xml
+D:\範例程式\ch17\系統資訊\obj\Debug\系統資訊.pdb

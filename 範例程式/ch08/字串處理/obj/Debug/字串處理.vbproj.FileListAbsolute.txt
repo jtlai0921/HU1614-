@@ -1,0 +1,9 @@
+D:\範例程式\ch08\字串處理\bin\Debug\字串處理.exe.config
+D:\範例程式\ch08\字串處理\bin\Debug\字串處理.exe
+D:\範例程式\ch08\字串處理\bin\Debug\字串處理.pdb
+D:\範例程式\ch08\字串處理\bin\Debug\字串處理.xml
+D:\範例程式\ch08\字串處理\obj\Debug\字串處理.Resources.resources
+D:\範例程式\ch08\字串處理\obj\Debug\字串處理.vbproj.GenerateResource.Cache
+D:\範例程式\ch08\字串處理\obj\Debug\字串處理.exe
+D:\範例程式\ch08\字串處理\obj\Debug\字串處理.xml
+D:\範例程式\ch08\字串處理\obj\Debug\字串處理.pdb

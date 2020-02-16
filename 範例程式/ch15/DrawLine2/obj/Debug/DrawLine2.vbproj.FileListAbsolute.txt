@@ -1,0 +1,9 @@
+D:\範例程式\ch15\DrawLine2\bin\Debug\DrawLine2.exe.config
+D:\範例程式\ch15\DrawLine2\bin\Debug\DrawLine2.exe
+D:\範例程式\ch15\DrawLine2\bin\Debug\DrawLine2.pdb
+D:\範例程式\ch15\DrawLine2\bin\Debug\DrawLine2.xml
+D:\範例程式\ch15\DrawLine2\obj\Debug\DrawLine2.Resources.resources
+D:\範例程式\ch15\DrawLine2\obj\Debug\DrawLine2.vbproj.GenerateResource.Cache
+D:\範例程式\ch15\DrawLine2\obj\Debug\DrawLine2.exe
+D:\範例程式\ch15\DrawLine2\obj\Debug\DrawLine2.xml
+D:\範例程式\ch15\DrawLine2\obj\Debug\DrawLine2.pdb

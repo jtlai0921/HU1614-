@@ -1,0 +1,10 @@
+D:\範例程式\ch12\取得按鍵值\bin\Debug\取得按鍵值.exe.config
+D:\範例程式\ch12\取得按鍵值\bin\Debug\取得按鍵值.exe
+D:\範例程式\ch12\取得按鍵值\bin\Debug\取得按鍵值.pdb
+D:\範例程式\ch12\取得按鍵值\bin\Debug\取得按鍵值.xml
+D:\範例程式\ch12\取得按鍵值\obj\Debug\取得按鍵值.取得按鍵值.resources
+D:\範例程式\ch12\取得按鍵值\obj\Debug\取得按鍵值.Resources.resources
+D:\範例程式\ch12\取得按鍵值\obj\Debug\取得按鍵值.vbproj.GenerateResource.Cache
+D:\範例程式\ch12\取得按鍵值\obj\Debug\取得按鍵值.exe
+D:\範例程式\ch12\取得按鍵值\obj\Debug\取得按鍵值.xml
+D:\範例程式\ch12\取得按鍵值\obj\Debug\取得按鍵值.pdb

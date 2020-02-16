@@ -1,0 +1,10 @@
+D:\範例程式\ch12\KeyPress\bin\Debug\KeyPress.exe.config
+D:\範例程式\ch12\KeyPress\obj\Debug\KeyPress.KeyPress.resources
+D:\範例程式\ch12\KeyPress\obj\Debug\KeyPress.Resources.resources
+D:\範例程式\ch12\KeyPress\obj\Debug\KeyPress.vbproj.GenerateResource.Cache
+D:\範例程式\ch12\KeyPress\bin\Debug\KeyPress.exe
+D:\範例程式\ch12\KeyPress\bin\Debug\KeyPress.pdb
+D:\範例程式\ch12\KeyPress\bin\Debug\KeyPress.xml
+D:\範例程式\ch12\KeyPress\obj\Debug\KeyPress.exe
+D:\範例程式\ch12\KeyPress\obj\Debug\KeyPress.xml
+D:\範例程式\ch12\KeyPress\obj\Debug\KeyPress.pdb

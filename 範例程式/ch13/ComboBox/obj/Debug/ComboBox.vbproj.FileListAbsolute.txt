@@ -1,0 +1,10 @@
+D:\範例程式\ch13\ComboBox\bin\Debug\ComboBox.exe.config
+D:\範例程式\ch13\ComboBox\bin\Debug\ComboBox.exe
+D:\範例程式\ch13\ComboBox\bin\Debug\ComboBox.pdb
+D:\範例程式\ch13\ComboBox\bin\Debug\ComboBox.xml
+D:\範例程式\ch13\ComboBox\obj\Debug\ComboBox.ComboBox.resources
+D:\範例程式\ch13\ComboBox\obj\Debug\ComboBox.Resources.resources
+D:\範例程式\ch13\ComboBox\obj\Debug\ComboBox.vbproj.GenerateResource.Cache
+D:\範例程式\ch13\ComboBox\obj\Debug\ComboBox.exe
+D:\範例程式\ch13\ComboBox\obj\Debug\ComboBox.xml
+D:\範例程式\ch13\ComboBox\obj\Debug\ComboBox.pdb

@@ -1,0 +1,10 @@
+D:\範例程式\ch07\巢狀If\bin\Debug\巢狀If.exe.config
+D:\範例程式\ch07\巢狀If\bin\Debug\巢狀If.exe
+D:\範例程式\ch07\巢狀If\bin\Debug\巢狀If.pdb
+D:\範例程式\ch07\巢狀If\bin\Debug\巢狀If.xml
+D:\範例程式\ch07\巢狀If\obj\Debug\巢狀If.Form1.resources
+D:\範例程式\ch07\巢狀If\obj\Debug\巢狀If.Resources.resources
+D:\範例程式\ch07\巢狀If\obj\Debug\巢狀If.vbproj.GenerateResource.Cache
+D:\範例程式\ch07\巢狀If\obj\Debug\巢狀If.exe
+D:\範例程式\ch07\巢狀If\obj\Debug\巢狀If.xml
+D:\範例程式\ch07\巢狀If\obj\Debug\巢狀If.pdb

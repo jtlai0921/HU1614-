@@ -1,0 +1,13 @@
+D:\範例程式\ch10\UserClass\bin\Debug\UserClass.exe.config
+D:\範例程式\ch10\UserClass\bin\Debug\UserClass.exe
+D:\範例程式\ch10\UserClass\bin\Debug\UserClass.pdb
+D:\範例程式\ch10\UserClass\bin\Debug\UserClass.xml
+D:\範例程式\ch10\UserClass\bin\Debug\FirstClass1.dll
+D:\範例程式\ch10\UserClass\bin\Debug\FirstClass1.pdb
+D:\範例程式\ch10\UserClass\bin\Debug\FirstClass1.xml
+D:\範例程式\ch10\UserClass\obj\Debug\UserClass.vbprojResolveAssemblyReference.cache
+D:\範例程式\ch10\UserClass\obj\Debug\UserClass.Resources.resources
+D:\範例程式\ch10\UserClass\obj\Debug\UserClass.vbproj.GenerateResource.Cache
+D:\範例程式\ch10\UserClass\obj\Debug\UserClass.exe
+D:\範例程式\ch10\UserClass\obj\Debug\UserClass.xml
+D:\範例程式\ch10\UserClass\obj\Debug\UserClass.pdb

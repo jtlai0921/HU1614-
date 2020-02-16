@@ -1,0 +1,9 @@
+D:\範例程式\ch08\班級成績\bin\Debug\班級成績.exe.config
+D:\範例程式\ch08\班級成績\bin\Debug\班級成績.exe
+D:\範例程式\ch08\班級成績\bin\Debug\班級成績.pdb
+D:\範例程式\ch08\班級成績\bin\Debug\班級成績.xml
+D:\範例程式\ch08\班級成績\obj\Debug\班級成績.Resources.resources
+D:\範例程式\ch08\班級成績\obj\Debug\班級成績.vbproj.GenerateResource.Cache
+D:\範例程式\ch08\班級成績\obj\Debug\班級成績.exe
+D:\範例程式\ch08\班級成績\obj\Debug\班級成績.xml
+D:\範例程式\ch08\班級成績\obj\Debug\班級成績.pdb

@@ -1,0 +1,10 @@
+D:\範例程式\ch07\LoopWhile\bin\Debug\LoopWhile.exe.config
+D:\範例程式\ch07\LoopWhile\bin\Debug\LoopWhile.exe
+D:\範例程式\ch07\LoopWhile\bin\Debug\LoopWhile.pdb
+D:\範例程式\ch07\LoopWhile\bin\Debug\LoopWhile.xml
+D:\範例程式\ch07\LoopWhile\obj\Debug\LoopWhile.Form1.resources
+D:\範例程式\ch07\LoopWhile\obj\Debug\LoopWhile.Resources.resources
+D:\範例程式\ch07\LoopWhile\obj\Debug\LoopWhile.vbproj.GenerateResource.Cache
+D:\範例程式\ch07\LoopWhile\obj\Debug\LoopWhile.exe
+D:\範例程式\ch07\LoopWhile\obj\Debug\LoopWhile.xml
+D:\範例程式\ch07\LoopWhile\obj\Debug\LoopWhile.pdb

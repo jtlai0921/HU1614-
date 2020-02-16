@@ -1,0 +1,268 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+資料庫
+</name>
+</assembly>
+<members>
+<member name="T:資料庫.LibraryDataSet._2003年4月借閱證DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.借書人DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.借閱證DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.圖書DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.管理員DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.閱覽DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.職掌DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.類別DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet._2003_4借閱查詢DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet._4月未借閱名單DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.當月借閱名單DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.圖書查詢DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.圖書借閱率的前10名DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet._2003年4月借閱證Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.借書人Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.借閱證Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.圖書Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.管理員Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.閱覽Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.職掌Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.類別Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet._2003_4借閱查詢Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet._4月未借閱名單Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.當月借閱名單Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.圖書查詢Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.圖書借閱率的前10名Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:資料庫.LibraryDataSet._2003年4月借閱證RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.借書人RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.借閱證RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.圖書RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.管理員RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.閱覽RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.職掌RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.類別RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:資料庫.LibraryDataSet._2003_4借閱查詢RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:資料庫.LibraryDataSet._4月未借閱名單RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.當月借閱名單RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.圖書查詢RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:資料庫.LibraryDataSet.圖書借閱率的前10名RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:資料庫.LibraryDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters._2003年4月借閱證TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters.借書人TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters.借閱證TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters.圖書TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters.管理員TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters.閱覽TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters.職掌TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters.類別TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters._2003_4借閱查詢TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters._4月未借閱名單TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters.當月借閱名單TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters.圖書查詢TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters.圖書借閱率的前10名TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:資料庫.LibraryDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(資料庫.LibraryDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:資料庫.LibraryDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(資料庫.LibraryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:資料庫.LibraryDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(資料庫.LibraryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:資料庫.LibraryDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:資料庫.LibraryDataSetTableAdapters.TableAdapterManager.UpdateAll(資料庫.LibraryDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:資料庫.LibraryDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:資料庫.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:資料庫.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:資料庫.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

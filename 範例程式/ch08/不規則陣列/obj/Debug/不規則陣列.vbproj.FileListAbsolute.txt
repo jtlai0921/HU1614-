@@ -1,0 +1,9 @@
+D:\範例程式\ch08\不規則陣列\bin\Debug\不規則陣列.exe.config
+D:\範例程式\ch08\不規則陣列\bin\Debug\不規則陣列.exe
+D:\範例程式\ch08\不規則陣列\bin\Debug\不規則陣列.pdb
+D:\範例程式\ch08\不規則陣列\bin\Debug\不規則陣列.xml
+D:\範例程式\ch08\不規則陣列\obj\Debug\不規則陣列.Resources.resources
+D:\範例程式\ch08\不規則陣列\obj\Debug\不規則陣列.vbproj.GenerateResource.Cache
+D:\範例程式\ch08\不規則陣列\obj\Debug\不規則陣列.exe
+D:\範例程式\ch08\不規則陣列\obj\Debug\不規則陣列.xml
+D:\範例程式\ch08\不規則陣列\obj\Debug\不規則陣列.pdb

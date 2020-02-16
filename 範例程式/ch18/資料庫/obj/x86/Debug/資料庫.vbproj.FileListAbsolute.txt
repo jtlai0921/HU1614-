@@ -1,0 +1,17 @@
+D:\範例程式\ch18\資料庫\bin\x86\Debug\資料庫.exe.config
+D:\範例程式\ch18\資料庫\bin\x86\Debug\Library.mdb
+D:\範例程式\ch18\資料庫\bin\x86\Debug\資料庫.exe
+D:\範例程式\ch18\資料庫\bin\x86\Debug\資料庫.pdb
+D:\範例程式\ch18\資料庫\bin\x86\Debug\資料庫.xml
+D:\範例程式\ch18\資料庫\obj\x86\Debug\資料庫.ConnectionTest.resources
+D:\範例程式\ch18\資料庫\obj\x86\Debug\資料庫.Form1.resources
+D:\範例程式\ch18\資料庫\obj\x86\Debug\資料庫.Form2.resources
+D:\範例程式\ch18\資料庫\obj\x86\Debug\資料庫.InsertTest.resources
+D:\範例程式\ch18\資料庫\obj\x86\Debug\資料庫.Resources.resources
+D:\範例程式\ch18\資料庫\obj\x86\Debug\資料庫.vbproj.GenerateResource.Cache
+D:\範例程式\ch18\資料庫\obj\x86\Debug\資料庫.exe
+D:\範例程式\ch18\資料庫\obj\x86\Debug\資料庫.xml
+D:\範例程式\ch18\資料庫\obj\x86\Debug\資料庫.pdb
+D:\範例程式\ch18\資料庫\obj\x86\Debug\資料庫.CommandTest.resources
+D:\範例程式\ch18\資料庫\obj\x86\Debug\資料庫.DataAdapter.resources
+D:\範例程式\ch18\資料庫\obj\x86\Debug\資料庫.autonumber.resources

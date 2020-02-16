@@ -1,0 +1,9 @@
+D:\範例程式\ch17\BinaryWriter\bin\Debug\BinaryWriter.exe.config
+D:\範例程式\ch17\BinaryWriter\bin\Debug\BinaryWriter.exe
+D:\範例程式\ch17\BinaryWriter\bin\Debug\BinaryWriter.pdb
+D:\範例程式\ch17\BinaryWriter\bin\Debug\BinaryWriter.xml
+D:\範例程式\ch17\BinaryWriter\obj\Debug\BinaryWriter.Resources.resources
+D:\範例程式\ch17\BinaryWriter\obj\Debug\BinaryWriter.vbproj.GenerateResource.Cache
+D:\範例程式\ch17\BinaryWriter\obj\Debug\BinaryWriter.exe
+D:\範例程式\ch17\BinaryWriter\obj\Debug\BinaryWriter.xml
+D:\範例程式\ch17\BinaryWriter\obj\Debug\BinaryWriter.pdb

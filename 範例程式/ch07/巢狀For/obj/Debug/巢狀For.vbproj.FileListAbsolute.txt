@@ -1,0 +1,10 @@
+D:\範例程式\ch07\巢狀For\bin\Debug\巢狀For.exe.config
+D:\範例程式\ch07\巢狀For\bin\Debug\巢狀For.exe
+D:\範例程式\ch07\巢狀For\bin\Debug\巢狀For.pdb
+D:\範例程式\ch07\巢狀For\bin\Debug\巢狀For.xml
+D:\範例程式\ch07\巢狀For\obj\Debug\巢狀For.Form1.resources
+D:\範例程式\ch07\巢狀For\obj\Debug\巢狀For.Resources.resources
+D:\範例程式\ch07\巢狀For\obj\Debug\巢狀For.vbproj.GenerateResource.Cache
+D:\範例程式\ch07\巢狀For\obj\Debug\巢狀For.exe
+D:\範例程式\ch07\巢狀For\obj\Debug\巢狀For.xml
+D:\範例程式\ch07\巢狀For\obj\Debug\巢狀For.pdb

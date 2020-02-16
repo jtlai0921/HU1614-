@@ -1,0 +1,10 @@
+D:\範例程式\ch17\記事本\bin\Debug\記事本.exe.config
+D:\範例程式\ch17\記事本\bin\Debug\記事本.exe
+D:\範例程式\ch17\記事本\bin\Debug\記事本.pdb
+D:\範例程式\ch17\記事本\bin\Debug\記事本.xml
+D:\範例程式\ch17\記事本\obj\Debug\記事本.記事本.resources
+D:\範例程式\ch17\記事本\obj\Debug\記事本.Resources.resources
+D:\範例程式\ch17\記事本\obj\Debug\記事本.vbproj.GenerateResource.Cache
+D:\範例程式\ch17\記事本\obj\Debug\記事本.exe
+D:\範例程式\ch17\記事本\obj\Debug\記事本.xml
+D:\範例程式\ch17\記事本\obj\Debug\記事本.pdb

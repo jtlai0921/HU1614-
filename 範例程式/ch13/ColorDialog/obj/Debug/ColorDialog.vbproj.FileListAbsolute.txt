@@ -1,0 +1,10 @@
+D:\範例程式\ch13\ColorDialog\bin\Debug\ColorDialog.exe.config
+D:\範例程式\ch13\ColorDialog\bin\Debug\ColorDialog.exe
+D:\範例程式\ch13\ColorDialog\bin\Debug\ColorDialog.pdb
+D:\範例程式\ch13\ColorDialog\bin\Debug\ColorDialog.xml
+D:\範例程式\ch13\ColorDialog\obj\Debug\ColorDialog.Resources.resources
+D:\範例程式\ch13\ColorDialog\obj\Debug\ColorDialog.vbproj.GenerateResource.Cache
+D:\範例程式\ch13\ColorDialog\obj\Debug\ColorDialog.exe
+D:\範例程式\ch13\ColorDialog\obj\Debug\ColorDialog.xml
+D:\範例程式\ch13\ColorDialog\obj\Debug\ColorDialog.pdb
+D:\範例程式\ch13\ColorDialog\obj\Debug\ColorDialog.ColorDialog.resources

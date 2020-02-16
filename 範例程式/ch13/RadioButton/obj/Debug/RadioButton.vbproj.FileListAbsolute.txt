@@ -1,0 +1,10 @@
+D:\範例程式\ch13\RadioButton\bin\Debug\RadioButton.exe.config
+D:\範例程式\ch13\RadioButton\bin\Debug\RadioButton.exe
+D:\範例程式\ch13\RadioButton\bin\Debug\RadioButton.pdb
+D:\範例程式\ch13\RadioButton\bin\Debug\RadioButton.xml
+D:\範例程式\ch13\RadioButton\obj\Debug\RadioButton.RadioButton.resources
+D:\範例程式\ch13\RadioButton\obj\Debug\RadioButton.Resources.resources
+D:\範例程式\ch13\RadioButton\obj\Debug\RadioButton.vbproj.GenerateResource.Cache
+D:\範例程式\ch13\RadioButton\obj\Debug\RadioButton.exe
+D:\範例程式\ch13\RadioButton\obj\Debug\RadioButton.xml
+D:\範例程式\ch13\RadioButton\obj\Debug\RadioButton.pdb

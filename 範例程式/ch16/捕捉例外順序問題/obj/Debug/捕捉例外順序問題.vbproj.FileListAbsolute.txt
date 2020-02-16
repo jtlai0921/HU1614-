@@ -1,0 +1,9 @@
+D:\範例程式\ch16\捕捉例外順序問題\bin\Debug\捕捉例外順序問題.exe.config
+D:\範例程式\ch16\捕捉例外順序問題\bin\Debug\捕捉例外順序問題.exe
+D:\範例程式\ch16\捕捉例外順序問題\bin\Debug\捕捉例外順序問題.pdb
+D:\範例程式\ch16\捕捉例外順序問題\bin\Debug\捕捉例外順序問題.xml
+D:\範例程式\ch16\捕捉例外順序問題\obj\Debug\捕捉例外順序問題.Resources.resources
+D:\範例程式\ch16\捕捉例外順序問題\obj\Debug\捕捉例外順序問題.vbproj.GenerateResource.Cache
+D:\範例程式\ch16\捕捉例外順序問題\obj\Debug\捕捉例外順序問題.exe
+D:\範例程式\ch16\捕捉例外順序問題\obj\Debug\捕捉例外順序問題.xml
+D:\範例程式\ch16\捕捉例外順序問題\obj\Debug\捕捉例外順序問題.pdb

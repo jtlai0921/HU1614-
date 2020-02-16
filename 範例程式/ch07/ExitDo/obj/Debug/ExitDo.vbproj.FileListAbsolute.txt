@@ -1,0 +1,10 @@
+D:\範例程式\ch07\ExitDo\bin\Debug\ExitDo.exe.config
+D:\範例程式\ch07\ExitDo\bin\Debug\ExitDo.exe
+D:\範例程式\ch07\ExitDo\bin\Debug\ExitDo.pdb
+D:\範例程式\ch07\ExitDo\bin\Debug\ExitDo.xml
+D:\範例程式\ch07\ExitDo\obj\Debug\ExitDo.Form1.resources
+D:\範例程式\ch07\ExitDo\obj\Debug\ExitDo.Resources.resources
+D:\範例程式\ch07\ExitDo\obj\Debug\ExitDo.vbproj.GenerateResource.Cache
+D:\範例程式\ch07\ExitDo\obj\Debug\ExitDo.exe
+D:\範例程式\ch07\ExitDo\obj\Debug\ExitDo.xml
+D:\範例程式\ch07\ExitDo\obj\Debug\ExitDo.pdb

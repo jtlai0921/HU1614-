@@ -1,0 +1,9 @@
+D:\範例程式\ch15\LinearGradientBrush\bin\Debug\LinearGradientBrush.exe.config
+D:\範例程式\ch15\LinearGradientBrush\bin\Debug\LinearGradientBrush.exe
+D:\範例程式\ch15\LinearGradientBrush\bin\Debug\LinearGradientBrush.pdb
+D:\範例程式\ch15\LinearGradientBrush\bin\Debug\LinearGradientBrush.xml
+D:\範例程式\ch15\LinearGradientBrush\obj\Debug\LinearGradientBrush.Resources.resources
+D:\範例程式\ch15\LinearGradientBrush\obj\Debug\LinearGradientBrush.vbproj.GenerateResource.Cache
+D:\範例程式\ch15\LinearGradientBrush\obj\Debug\LinearGradientBrush.exe
+D:\範例程式\ch15\LinearGradientBrush\obj\Debug\LinearGradientBrush.xml
+D:\範例程式\ch15\LinearGradientBrush\obj\Debug\LinearGradientBrush.pdb

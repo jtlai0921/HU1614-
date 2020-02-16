@@ -1,0 +1,10 @@
+D:\範例程式\ch14\StatusBar\bin\Debug\StatusBar.exe.config
+D:\範例程式\ch14\StatusBar\bin\Debug\StatusBar.exe
+D:\範例程式\ch14\StatusBar\bin\Debug\StatusBar.pdb
+D:\範例程式\ch14\StatusBar\bin\Debug\StatusBar.xml
+D:\範例程式\ch14\StatusBar\obj\Debug\StatusBar.StatusBar.resources
+D:\範例程式\ch14\StatusBar\obj\Debug\StatusBar.Resources.resources
+D:\範例程式\ch14\StatusBar\obj\Debug\StatusBar.vbproj.GenerateResource.Cache
+D:\範例程式\ch14\StatusBar\obj\Debug\StatusBar.exe
+D:\範例程式\ch14\StatusBar\obj\Debug\StatusBar.xml
+D:\範例程式\ch14\StatusBar\obj\Debug\StatusBar.pdb

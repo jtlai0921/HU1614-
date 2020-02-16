@@ -1,0 +1,9 @@
+D:\範例程式\ch11\animal2\bin\Debug\animal2.exe.config
+D:\範例程式\ch11\animal2\bin\Debug\animal2.exe
+D:\範例程式\ch11\animal2\bin\Debug\animal2.pdb
+D:\範例程式\ch11\animal2\bin\Debug\animal2.xml
+D:\範例程式\ch11\animal2\obj\Debug\animal2.Resources.resources
+D:\範例程式\ch11\animal2\obj\Debug\animal2.vbproj.GenerateResource.Cache
+D:\範例程式\ch11\animal2\obj\Debug\animal2.exe
+D:\範例程式\ch11\animal2\obj\Debug\animal2.xml
+D:\範例程式\ch11\animal2\obj\Debug\animal2.pdb

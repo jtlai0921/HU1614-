@@ -1,0 +1,9 @@
+D:\範例程式\ch16\自行丟出例外\bin\Debug\自行丟出例外.exe.config
+D:\範例程式\ch16\自行丟出例外\bin\Debug\自行丟出例外.exe
+D:\範例程式\ch16\自行丟出例外\bin\Debug\自行丟出例外.pdb
+D:\範例程式\ch16\自行丟出例外\bin\Debug\自行丟出例外.xml
+D:\範例程式\ch16\自行丟出例外\obj\Debug\自行丟出例外.Resources.resources
+D:\範例程式\ch16\自行丟出例外\obj\Debug\自行丟出例外.vbproj.GenerateResource.Cache
+D:\範例程式\ch16\自行丟出例外\obj\Debug\自行丟出例外.exe
+D:\範例程式\ch16\自行丟出例外\obj\Debug\自行丟出例外.xml
+D:\範例程式\ch16\自行丟出例外\obj\Debug\自行丟出例外.pdb

@@ -1,0 +1,11 @@
+D:\範例程式\ch14\About_form\bin\Debug\About_form.exe.config
+D:\範例程式\ch14\About_form\obj\Debug\About_form.about.resources
+D:\範例程式\ch14\About_form\obj\Debug\About_form.About_form.resources
+D:\範例程式\ch14\About_form\obj\Debug\About_form.Resources.resources
+D:\範例程式\ch14\About_form\obj\Debug\About_form.vbproj.GenerateResource.Cache
+D:\範例程式\ch14\About_form\bin\Debug\About_form.exe
+D:\範例程式\ch14\About_form\bin\Debug\About_form.pdb
+D:\範例程式\ch14\About_form\bin\Debug\About_form.xml
+D:\範例程式\ch14\About_form\obj\Debug\About_form.exe
+D:\範例程式\ch14\About_form\obj\Debug\About_form.xml
+D:\範例程式\ch14\About_form\obj\Debug\About_form.pdb

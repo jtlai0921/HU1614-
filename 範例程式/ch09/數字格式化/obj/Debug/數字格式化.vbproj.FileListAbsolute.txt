@@ -1,0 +1,10 @@
+D:\範例程式\ch09\數字格式化\bin\Debug\數字格式化.exe.config
+D:\範例程式\ch09\數字格式化\bin\Debug\數字格式化.exe
+D:\範例程式\ch09\數字格式化\bin\Debug\數字格式化.pdb
+D:\範例程式\ch09\數字格式化\bin\Debug\數字格式化.xml
+D:\範例程式\ch09\數字格式化\obj\Debug\數字格式化.Form1.resources
+D:\範例程式\ch09\數字格式化\obj\Debug\數字格式化.Resources.resources
+D:\範例程式\ch09\數字格式化\obj\Debug\數字格式化.vbproj.GenerateResource.Cache
+D:\範例程式\ch09\數字格式化\obj\Debug\數字格式化.exe
+D:\範例程式\ch09\數字格式化\obj\Debug\數字格式化.xml
+D:\範例程式\ch09\數字格式化\obj\Debug\數字格式化.pdb

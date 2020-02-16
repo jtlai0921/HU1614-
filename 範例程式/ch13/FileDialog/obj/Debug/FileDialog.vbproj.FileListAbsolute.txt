@@ -1,0 +1,10 @@
+D:\範例程式\ch13\FileDialog\bin\Debug\FileDialog.exe.config
+D:\範例程式\ch13\FileDialog\bin\Debug\FileDialog.exe
+D:\範例程式\ch13\FileDialog\bin\Debug\FileDialog.pdb
+D:\範例程式\ch13\FileDialog\bin\Debug\FileDialog.xml
+D:\範例程式\ch13\FileDialog\obj\Debug\FileDialog.FileDialog.resources
+D:\範例程式\ch13\FileDialog\obj\Debug\FileDialog.Resources.resources
+D:\範例程式\ch13\FileDialog\obj\Debug\FileDialog.vbproj.GenerateResource.Cache
+D:\範例程式\ch13\FileDialog\obj\Debug\FileDialog.exe
+D:\範例程式\ch13\FileDialog\obj\Debug\FileDialog.xml
+D:\範例程式\ch13\FileDialog\obj\Debug\FileDialog.pdb

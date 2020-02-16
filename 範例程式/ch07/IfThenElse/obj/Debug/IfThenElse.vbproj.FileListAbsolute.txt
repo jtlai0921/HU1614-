@@ -1,0 +1,10 @@
+D:\範例程式\ch07\IfThenElse\bin\Debug\IfThenElse.exe.config
+D:\範例程式\ch07\IfThenElse\bin\Debug\IfThenElse.exe
+D:\範例程式\ch07\IfThenElse\bin\Debug\IfThenElse.pdb
+D:\範例程式\ch07\IfThenElse\bin\Debug\IfThenElse.xml
+D:\範例程式\ch07\IfThenElse\obj\Debug\IfThenElse.Form1.resources
+D:\範例程式\ch07\IfThenElse\obj\Debug\IfThenElse.Resources.resources
+D:\範例程式\ch07\IfThenElse\obj\Debug\IfThenElse.vbproj.GenerateResource.Cache
+D:\範例程式\ch07\IfThenElse\obj\Debug\IfThenElse.exe
+D:\範例程式\ch07\IfThenElse\obj\Debug\IfThenElse.xml
+D:\範例程式\ch07\IfThenElse\obj\Debug\IfThenElse.pdb

@@ -1,0 +1,10 @@
+D:\範例程式\ch06\MsgBox控制項\bin\Debug\MsgBox控制項.exe.config
+D:\範例程式\ch06\MsgBox控制項\bin\Debug\MsgBox控制項.exe
+D:\範例程式\ch06\MsgBox控制項\bin\Debug\MsgBox控制項.pdb
+D:\範例程式\ch06\MsgBox控制項\bin\Debug\MsgBox控制項.xml
+D:\範例程式\ch06\MsgBox控制項\obj\Debug\MsgBox控制項.Form1.resources
+D:\範例程式\ch06\MsgBox控制項\obj\Debug\MsgBox控制項.Resources.resources
+D:\範例程式\ch06\MsgBox控制項\obj\Debug\MsgBox控制項.vbproj.GenerateResource.Cache
+D:\範例程式\ch06\MsgBox控制項\obj\Debug\MsgBox控制項.exe
+D:\範例程式\ch06\MsgBox控制項\obj\Debug\MsgBox控制項.xml
+D:\範例程式\ch06\MsgBox控制項\obj\Debug\MsgBox控制項.pdb

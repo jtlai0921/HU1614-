@@ -1,0 +1,9 @@
+D:\範例程式\ch08\九九乘法表\bin\Debug\九九乘法表.exe.config
+D:\範例程式\ch08\九九乘法表\bin\Debug\九九乘法表.exe
+D:\範例程式\ch08\九九乘法表\bin\Debug\九九乘法表.pdb
+D:\範例程式\ch08\九九乘法表\bin\Debug\九九乘法表.xml
+D:\範例程式\ch08\九九乘法表\obj\Debug\九九乘法表.Resources.resources
+D:\範例程式\ch08\九九乘法表\obj\Debug\九九乘法表.vbproj.GenerateResource.Cache
+D:\範例程式\ch08\九九乘法表\obj\Debug\九九乘法表.exe
+D:\範例程式\ch08\九九乘法表\obj\Debug\九九乘法表.xml
+D:\範例程式\ch08\九九乘法表\obj\Debug\九九乘法表.pdb

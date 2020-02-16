@@ -1,0 +1,10 @@
+D:\範例程式\ch13\ListBox範例2\bin\Debug\ListBox範例2.exe.config
+D:\範例程式\ch13\ListBox範例2\bin\Debug\ListBox範例2.exe
+D:\範例程式\ch13\ListBox範例2\bin\Debug\ListBox範例2.pdb
+D:\範例程式\ch13\ListBox範例2\bin\Debug\ListBox範例2.xml
+D:\範例程式\ch13\ListBox範例2\obj\Debug\ListBox範例2.ListBox範例2.resources
+D:\範例程式\ch13\ListBox範例2\obj\Debug\ListBox範例2.Resources.resources
+D:\範例程式\ch13\ListBox範例2\obj\Debug\ListBox範例2.vbproj.GenerateResource.Cache
+D:\範例程式\ch13\ListBox範例2\obj\Debug\ListBox範例2.exe
+D:\範例程式\ch13\ListBox範例2\obj\Debug\ListBox範例2.xml
+D:\範例程式\ch13\ListBox範例2\obj\Debug\ListBox範例2.pdb

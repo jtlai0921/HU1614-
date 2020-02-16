@@ -1,0 +1,9 @@
+D:\範例程式\ch04\日期變數宣告與使用\bin\Debug\日期變數宣告與使用.exe.config
+D:\範例程式\ch04\日期變數宣告與使用\bin\Debug\日期變數宣告與使用.exe
+D:\範例程式\ch04\日期變數宣告與使用\bin\Debug\日期變數宣告與使用.pdb
+D:\範例程式\ch04\日期變數宣告與使用\bin\Debug\日期變數宣告與使用.xml
+D:\範例程式\ch04\日期變數宣告與使用\obj\Debug\日期變數宣告與使用.Resources.resources
+D:\範例程式\ch04\日期變數宣告與使用\obj\Debug\日期變數宣告與使用.vbproj.GenerateResource.Cache
+D:\範例程式\ch04\日期變數宣告與使用\obj\Debug\日期變數宣告與使用.exe
+D:\範例程式\ch04\日期變數宣告與使用\obj\Debug\日期變數宣告與使用.xml
+D:\範例程式\ch04\日期變數宣告與使用\obj\Debug\日期變數宣告與使用.pdb

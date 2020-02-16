@@ -1,0 +1,9 @@
+D:\範例程式\ch08\Clone\bin\Debug\Clone.exe.config
+D:\範例程式\ch08\Clone\bin\Debug\Clone.exe
+D:\範例程式\ch08\Clone\bin\Debug\Clone.pdb
+D:\範例程式\ch08\Clone\bin\Debug\Clone.xml
+D:\範例程式\ch08\Clone\obj\Debug\Clone.Resources.resources
+D:\範例程式\ch08\Clone\obj\Debug\Clone.vbproj.GenerateResource.Cache
+D:\範例程式\ch08\Clone\obj\Debug\Clone.exe
+D:\範例程式\ch08\Clone\obj\Debug\Clone.xml
+D:\範例程式\ch08\Clone\obj\Debug\Clone.pdb

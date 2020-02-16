@@ -1,0 +1,10 @@
+D:\範例程式\ch13\CheckBox\bin\Debug\CheckBox.exe.config
+D:\範例程式\ch13\CheckBox\bin\Debug\CheckBox.exe
+D:\範例程式\ch13\CheckBox\bin\Debug\CheckBox.pdb
+D:\範例程式\ch13\CheckBox\bin\Debug\CheckBox.xml
+D:\範例程式\ch13\CheckBox\obj\Debug\CheckBox.CheckBox.resources
+D:\範例程式\ch13\CheckBox\obj\Debug\CheckBox.Resources.resources
+D:\範例程式\ch13\CheckBox\obj\Debug\CheckBox.vbproj.GenerateResource.Cache
+D:\範例程式\ch13\CheckBox\obj\Debug\CheckBox.exe
+D:\範例程式\ch13\CheckBox\obj\Debug\CheckBox.xml
+D:\範例程式\ch13\CheckBox\obj\Debug\CheckBox.pdb

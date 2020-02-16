@@ -1,0 +1,8 @@
+D:\範例程式\ch10\FirstClass1\bin\Debug\FirstClass1.dll
+D:\範例程式\ch10\FirstClass1\bin\Debug\FirstClass1.pdb
+D:\範例程式\ch10\FirstClass1\bin\Debug\FirstClass1.xml
+D:\範例程式\ch10\FirstClass1\obj\Debug\FirstClass1.Resources.resources
+D:\範例程式\ch10\FirstClass1\obj\Debug\FirstClass1.vbproj.GenerateResource.Cache
+D:\範例程式\ch10\FirstClass1\obj\Debug\FirstClass1.dll
+D:\範例程式\ch10\FirstClass1\obj\Debug\FirstClass1.xml
+D:\範例程式\ch10\FirstClass1\obj\Debug\FirstClass1.pdb

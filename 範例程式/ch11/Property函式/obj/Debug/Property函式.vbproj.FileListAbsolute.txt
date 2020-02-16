@@ -1,0 +1,9 @@
+D:\範例程式\ch11\Property函式\bin\Debug\Property函式.exe.config
+D:\範例程式\ch11\Property函式\bin\Debug\Property函式.exe
+D:\範例程式\ch11\Property函式\bin\Debug\Property函式.pdb
+D:\範例程式\ch11\Property函式\bin\Debug\Property函式.xml
+D:\範例程式\ch11\Property函式\obj\Debug\Property函式.Resources.resources
+D:\範例程式\ch11\Property函式\obj\Debug\Property函式.vbproj.GenerateResource.Cache
+D:\範例程式\ch11\Property函式\obj\Debug\Property函式.exe
+D:\範例程式\ch11\Property函式\obj\Debug\Property函式.xml
+D:\範例程式\ch11\Property函式\obj\Debug\Property函式.pdb

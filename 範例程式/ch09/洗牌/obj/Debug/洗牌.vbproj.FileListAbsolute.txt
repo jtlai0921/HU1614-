@@ -1,0 +1,9 @@
+D:\範例程式\ch09\洗牌\bin\Debug\洗牌.exe.config
+D:\範例程式\ch09\洗牌\bin\Debug\洗牌.exe
+D:\範例程式\ch09\洗牌\bin\Debug\洗牌.pdb
+D:\範例程式\ch09\洗牌\bin\Debug\洗牌.xml
+D:\範例程式\ch09\洗牌\obj\Debug\洗牌.Resources.resources
+D:\範例程式\ch09\洗牌\obj\Debug\洗牌.vbproj.GenerateResource.Cache
+D:\範例程式\ch09\洗牌\obj\Debug\洗牌.exe
+D:\範例程式\ch09\洗牌\obj\Debug\洗牌.xml
+D:\範例程式\ch09\洗牌\obj\Debug\洗牌.pdb

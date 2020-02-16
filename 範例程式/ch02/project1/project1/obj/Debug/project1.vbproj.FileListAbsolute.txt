@@ -1,0 +1,9 @@
+D:\範例程式\ch02\project1\project1\bin\Debug\project1.exe.config
+D:\範例程式\ch02\project1\project1\bin\Debug\project1.exe
+D:\範例程式\ch02\project1\project1\bin\Debug\project1.pdb
+D:\範例程式\ch02\project1\project1\bin\Debug\project1.xml
+D:\範例程式\ch02\project1\project1\obj\Debug\project1.Resources.resources
+D:\範例程式\ch02\project1\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
+D:\範例程式\ch02\project1\project1\obj\Debug\project1.exe
+D:\範例程式\ch02\project1\project1\obj\Debug\project1.xml
+D:\範例程式\ch02\project1\project1\obj\Debug\project1.pdb

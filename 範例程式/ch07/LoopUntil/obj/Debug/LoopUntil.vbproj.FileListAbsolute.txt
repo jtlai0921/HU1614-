@@ -1,0 +1,10 @@
+D:\範例程式\ch07\LoopUntil\bin\Debug\LoopUntil.exe.config
+D:\範例程式\ch07\LoopUntil\bin\Debug\LoopUntil.exe
+D:\範例程式\ch07\LoopUntil\bin\Debug\LoopUntil.pdb
+D:\範例程式\ch07\LoopUntil\bin\Debug\LoopUntil.xml
+D:\範例程式\ch07\LoopUntil\obj\Debug\LoopUntil.Form1.resources
+D:\範例程式\ch07\LoopUntil\obj\Debug\LoopUntil.Resources.resources
+D:\範例程式\ch07\LoopUntil\obj\Debug\LoopUntil.vbproj.GenerateResource.Cache
+D:\範例程式\ch07\LoopUntil\obj\Debug\LoopUntil.exe
+D:\範例程式\ch07\LoopUntil\obj\Debug\LoopUntil.xml
+D:\範例程式\ch07\LoopUntil\obj\Debug\LoopUntil.pdb

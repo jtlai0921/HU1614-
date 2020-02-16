@@ -1,0 +1,9 @@
+D:\範例程式\ch03\主控台\bin\Debug\主控台.exe.config
+D:\範例程式\ch03\主控台\bin\Debug\主控台.exe
+D:\範例程式\ch03\主控台\bin\Debug\主控台.pdb
+D:\範例程式\ch03\主控台\bin\Debug\主控台.xml
+D:\範例程式\ch03\主控台\obj\Debug\主控台.Resources.resources
+D:\範例程式\ch03\主控台\obj\Debug\主控台.vbproj.GenerateResource.Cache
+D:\範例程式\ch03\主控台\obj\Debug\主控台.exe
+D:\範例程式\ch03\主控台\obj\Debug\主控台.xml
+D:\範例程式\ch03\主控台\obj\Debug\主控台.pdb

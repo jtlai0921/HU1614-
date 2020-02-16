@@ -1,0 +1,10 @@
+D:\範例程式\ch16\執行時期錯誤\bin\Debug\執行時期錯誤.exe.config
+D:\範例程式\ch16\執行時期錯誤\bin\Debug\執行時期錯誤.exe
+D:\範例程式\ch16\執行時期錯誤\bin\Debug\執行時期錯誤.pdb
+D:\範例程式\ch16\執行時期錯誤\bin\Debug\執行時期錯誤.xml
+D:\範例程式\ch16\執行時期錯誤\obj\Debug\執行時期錯誤.執行時期錯誤.resources
+D:\範例程式\ch16\執行時期錯誤\obj\Debug\執行時期錯誤.Resources.resources
+D:\範例程式\ch16\執行時期錯誤\obj\Debug\執行時期錯誤.vbproj.GenerateResource.Cache
+D:\範例程式\ch16\執行時期錯誤\obj\Debug\執行時期錯誤.exe
+D:\範例程式\ch16\執行時期錯誤\obj\Debug\執行時期錯誤.xml
+D:\範例程式\ch16\執行時期錯誤\obj\Debug\執行時期錯誤.pdb

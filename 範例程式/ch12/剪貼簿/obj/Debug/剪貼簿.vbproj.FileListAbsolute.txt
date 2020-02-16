@@ -1,0 +1,10 @@
+D:\範例程式\ch12\剪貼簿\bin\Debug\剪貼簿.exe.config
+D:\範例程式\ch12\剪貼簿\bin\Debug\剪貼簿.exe
+D:\範例程式\ch12\剪貼簿\bin\Debug\剪貼簿.pdb
+D:\範例程式\ch12\剪貼簿\bin\Debug\剪貼簿.xml
+D:\範例程式\ch12\剪貼簿\obj\Debug\剪貼簿.剪貼簿.resources
+D:\範例程式\ch12\剪貼簿\obj\Debug\剪貼簿.Resources.resources
+D:\範例程式\ch12\剪貼簿\obj\Debug\剪貼簿.vbproj.GenerateResource.Cache
+D:\範例程式\ch12\剪貼簿\obj\Debug\剪貼簿.exe
+D:\範例程式\ch12\剪貼簿\obj\Debug\剪貼簿.xml
+D:\範例程式\ch12\剪貼簿\obj\Debug\剪貼簿.pdb

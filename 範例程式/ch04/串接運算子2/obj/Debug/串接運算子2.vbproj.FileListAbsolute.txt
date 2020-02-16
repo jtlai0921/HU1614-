@@ -1,0 +1,9 @@
+D:\範例程式\ch04\串接運算子2\bin\Debug\串接運算子2.exe.config
+D:\範例程式\ch04\串接運算子2\bin\Debug\串接運算子2.exe
+D:\範例程式\ch04\串接運算子2\bin\Debug\串接運算子2.pdb
+D:\範例程式\ch04\串接運算子2\bin\Debug\串接運算子2.xml
+D:\範例程式\ch04\串接運算子2\obj\Debug\串接運算子2.Resources.resources
+D:\範例程式\ch04\串接運算子2\obj\Debug\串接運算子2.vbproj.GenerateResource.Cache
+D:\範例程式\ch04\串接運算子2\obj\Debug\串接運算子2.exe
+D:\範例程式\ch04\串接運算子2\obj\Debug\串接運算子2.xml
+D:\範例程式\ch04\串接運算子2\obj\Debug\串接運算子2.pdb

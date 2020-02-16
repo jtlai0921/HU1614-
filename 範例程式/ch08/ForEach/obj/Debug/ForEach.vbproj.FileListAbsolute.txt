@@ -1,0 +1,9 @@
+D:\範例程式\ch08\ForEach\bin\Debug\ForEach.exe.config
+D:\範例程式\ch08\ForEach\bin\Debug\ForEach.exe
+D:\範例程式\ch08\ForEach\bin\Debug\ForEach.pdb
+D:\範例程式\ch08\ForEach\bin\Debug\ForEach.xml
+D:\範例程式\ch08\ForEach\obj\Debug\ForEach.Resources.resources
+D:\範例程式\ch08\ForEach\obj\Debug\ForEach.vbproj.GenerateResource.Cache
+D:\範例程式\ch08\ForEach\obj\Debug\ForEach.exe
+D:\範例程式\ch08\ForEach\obj\Debug\ForEach.xml
+D:\範例程式\ch08\ForEach\obj\Debug\ForEach.pdb

@@ -1,0 +1,9 @@
+D:\範例程式\ch11\dest\bin\Debug\dest.exe.config
+D:\範例程式\ch11\dest\bin\Debug\dest.exe
+D:\範例程式\ch11\dest\bin\Debug\dest.pdb
+D:\範例程式\ch11\dest\bin\Debug\dest.xml
+D:\範例程式\ch11\dest\obj\Debug\dest.Resources.resources
+D:\範例程式\ch11\dest\obj\Debug\dest.vbproj.GenerateResource.Cache
+D:\範例程式\ch11\dest\obj\Debug\dest.exe
+D:\範例程式\ch11\dest\obj\Debug\dest.xml
+D:\範例程式\ch11\dest\obj\Debug\dest.pdb

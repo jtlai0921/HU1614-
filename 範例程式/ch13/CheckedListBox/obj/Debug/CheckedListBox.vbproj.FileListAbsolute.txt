@@ -1,0 +1,10 @@
+D:\範例程式\ch13\CheckedListBox\bin\Debug\CheckedListBox.exe.config
+D:\範例程式\ch13\CheckedListBox\bin\Debug\CheckedListBox.exe
+D:\範例程式\ch13\CheckedListBox\bin\Debug\CheckedListBox.pdb
+D:\範例程式\ch13\CheckedListBox\bin\Debug\CheckedListBox.xml
+D:\範例程式\ch13\CheckedListBox\obj\Debug\CheckedListBox.CheckedListBox.resources
+D:\範例程式\ch13\CheckedListBox\obj\Debug\CheckedListBox.Resources.resources
+D:\範例程式\ch13\CheckedListBox\obj\Debug\CheckedListBox.vbproj.GenerateResource.Cache
+D:\範例程式\ch13\CheckedListBox\obj\Debug\CheckedListBox.exe
+D:\範例程式\ch13\CheckedListBox\obj\Debug\CheckedListBox.xml
+D:\範例程式\ch13\CheckedListBox\obj\Debug\CheckedListBox.pdb

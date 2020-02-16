@@ -1,0 +1,9 @@
+D:\範例程式\ch09\數學函數\bin\Debug\數學函數.exe.config
+D:\範例程式\ch09\數學函數\bin\Debug\數學函數.exe
+D:\範例程式\ch09\數學函數\bin\Debug\數學函數.pdb
+D:\範例程式\ch09\數學函數\bin\Debug\數學函數.xml
+D:\範例程式\ch09\數學函數\obj\Debug\數學函數.Resources.resources
+D:\範例程式\ch09\數學函數\obj\Debug\數學函數.vbproj.GenerateResource.Cache
+D:\範例程式\ch09\數學函數\obj\Debug\數學函數.exe
+D:\範例程式\ch09\數學函數\obj\Debug\數學函數.xml
+D:\範例程式\ch09\數學函數\obj\Debug\數學函數.pdb

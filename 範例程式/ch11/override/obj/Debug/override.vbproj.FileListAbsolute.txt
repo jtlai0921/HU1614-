@@ -1,0 +1,9 @@
+D:\範例程式\ch11\override\bin\Debug\override.exe.config
+D:\範例程式\ch11\override\bin\Debug\override.exe
+D:\範例程式\ch11\override\bin\Debug\override.pdb
+D:\範例程式\ch11\override\bin\Debug\override.xml
+D:\範例程式\ch11\override\obj\Debug\override.Resources.resources
+D:\範例程式\ch11\override\obj\Debug\override.vbproj.GenerateResource.Cache
+D:\範例程式\ch11\override\obj\Debug\override.exe
+D:\範例程式\ch11\override\obj\Debug\override.xml
+D:\範例程式\ch11\override\obj\Debug\override.pdb

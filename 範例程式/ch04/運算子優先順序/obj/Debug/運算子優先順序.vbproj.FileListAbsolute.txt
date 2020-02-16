@@ -1,0 +1,9 @@
+D:\範例程式\ch04\運算子優先順序\bin\Debug\運算子優先順序.exe.config
+D:\範例程式\ch04\運算子優先順序\bin\Debug\運算子優先順序.exe
+D:\範例程式\ch04\運算子優先順序\bin\Debug\運算子優先順序.pdb
+D:\範例程式\ch04\運算子優先順序\bin\Debug\運算子優先順序.xml
+D:\範例程式\ch04\運算子優先順序\obj\Debug\運算子優先順序.Resources.resources
+D:\範例程式\ch04\運算子優先順序\obj\Debug\運算子優先順序.vbproj.GenerateResource.Cache
+D:\範例程式\ch04\運算子優先順序\obj\Debug\運算子優先順序.exe
+D:\範例程式\ch04\運算子優先順序\obj\Debug\運算子優先順序.xml
+D:\範例程式\ch04\運算子優先順序\obj\Debug\運算子優先順序.pdb

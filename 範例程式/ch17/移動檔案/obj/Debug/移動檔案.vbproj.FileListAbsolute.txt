@@ -1,0 +1,10 @@
+D:\範例程式\ch17\移動檔案\bin\Debug\移動檔案.exe.config
+D:\範例程式\ch17\移動檔案\bin\Debug\移動檔案.exe
+D:\範例程式\ch17\移動檔案\bin\Debug\移動檔案.pdb
+D:\範例程式\ch17\移動檔案\bin\Debug\移動檔案.xml
+D:\範例程式\ch17\移動檔案\obj\Debug\移動檔案.移動檔案.resources
+D:\範例程式\ch17\移動檔案\obj\Debug\移動檔案.Resources.resources
+D:\範例程式\ch17\移動檔案\obj\Debug\移動檔案.vbproj.GenerateResource.Cache
+D:\範例程式\ch17\移動檔案\obj\Debug\移動檔案.exe
+D:\範例程式\ch17\移動檔案\obj\Debug\移動檔案.xml
+D:\範例程式\ch17\移動檔案\obj\Debug\移動檔案.pdb

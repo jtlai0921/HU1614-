@@ -1,0 +1,10 @@
+D:\範例程式\chA\Application1\bin\Debug\Application1.exe.config
+D:\範例程式\chA\Application1\bin\Debug\Application1.exe
+D:\範例程式\chA\Application1\bin\Debug\Application1.pdb
+D:\範例程式\chA\Application1\bin\Debug\Application1.xml
+D:\範例程式\chA\Application1\obj\Debug\Application1.Form1.resources
+D:\範例程式\chA\Application1\obj\Debug\Application1.Resources.resources
+D:\範例程式\chA\Application1\obj\Debug\Application1.vbproj.GenerateResource.Cache
+D:\範例程式\chA\Application1\obj\Debug\Application1.exe
+D:\範例程式\chA\Application1\obj\Debug\Application1.xml
+D:\範例程式\chA\Application1\obj\Debug\Application1.pdb

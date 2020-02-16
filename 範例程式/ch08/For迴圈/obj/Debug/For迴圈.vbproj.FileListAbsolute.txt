@@ -1,0 +1,9 @@
+D:\範例程式\ch08\For迴圈\bin\Debug\For迴圈.exe.config
+D:\範例程式\ch08\For迴圈\bin\Debug\For迴圈.exe
+D:\範例程式\ch08\For迴圈\bin\Debug\For迴圈.pdb
+D:\範例程式\ch08\For迴圈\bin\Debug\For迴圈.xml
+D:\範例程式\ch08\For迴圈\obj\Debug\For迴圈.Resources.resources
+D:\範例程式\ch08\For迴圈\obj\Debug\For迴圈.vbproj.GenerateResource.Cache
+D:\範例程式\ch08\For迴圈\obj\Debug\For迴圈.exe
+D:\範例程式\ch08\For迴圈\obj\Debug\For迴圈.xml
+D:\範例程式\ch08\For迴圈\obj\Debug\For迴圈.pdb

@@ -1,0 +1,9 @@
+D:\範例程式\ch15\DrawImage\bin\Debug\DrawImage.exe.config
+D:\範例程式\ch15\DrawImage\bin\Debug\DrawImage.exe
+D:\範例程式\ch15\DrawImage\bin\Debug\DrawImage.pdb
+D:\範例程式\ch15\DrawImage\bin\Debug\DrawImage.xml
+D:\範例程式\ch15\DrawImage\obj\Debug\DrawImage.Resources.resources
+D:\範例程式\ch15\DrawImage\obj\Debug\DrawImage.vbproj.GenerateResource.Cache
+D:\範例程式\ch15\DrawImage\obj\Debug\DrawImage.exe
+D:\範例程式\ch15\DrawImage\obj\Debug\DrawImage.xml
+D:\範例程式\ch15\DrawImage\obj\Debug\DrawImage.pdb

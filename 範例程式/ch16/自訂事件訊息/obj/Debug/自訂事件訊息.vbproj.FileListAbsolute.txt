@@ -1,0 +1,9 @@
+D:\範例程式\ch16\自訂事件訊息\bin\Debug\自訂事件訊息.exe.config
+D:\範例程式\ch16\自訂事件訊息\bin\Debug\自訂事件訊息.exe
+D:\範例程式\ch16\自訂事件訊息\bin\Debug\自訂事件訊息.pdb
+D:\範例程式\ch16\自訂事件訊息\bin\Debug\自訂事件訊息.xml
+D:\範例程式\ch16\自訂事件訊息\obj\Debug\自訂事件訊息.Resources.resources
+D:\範例程式\ch16\自訂事件訊息\obj\Debug\自訂事件訊息.vbproj.GenerateResource.Cache
+D:\範例程式\ch16\自訂事件訊息\obj\Debug\自訂事件訊息.exe
+D:\範例程式\ch16\自訂事件訊息\obj\Debug\自訂事件訊息.xml
+D:\範例程式\ch16\自訂事件訊息\obj\Debug\自訂事件訊息.pdb

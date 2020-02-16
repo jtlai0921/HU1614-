@@ -1,0 +1,9 @@
+D:\範例程式\ch16\巢狀Try區塊\bin\Debug\巢狀Try區塊.exe.config
+D:\範例程式\ch16\巢狀Try區塊\bin\Debug\巢狀Try區塊.exe
+D:\範例程式\ch16\巢狀Try區塊\bin\Debug\巢狀Try區塊.pdb
+D:\範例程式\ch16\巢狀Try區塊\bin\Debug\巢狀Try區塊.xml
+D:\範例程式\ch16\巢狀Try區塊\obj\Debug\巢狀Try區塊.Resources.resources
+D:\範例程式\ch16\巢狀Try區塊\obj\Debug\巢狀Try區塊.vbproj.GenerateResource.Cache
+D:\範例程式\ch16\巢狀Try區塊\obj\Debug\巢狀Try區塊.exe
+D:\範例程式\ch16\巢狀Try區塊\obj\Debug\巢狀Try區塊.xml
+D:\範例程式\ch16\巢狀Try區塊\obj\Debug\巢狀Try區塊.pdb

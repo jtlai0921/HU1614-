@@ -1,0 +1,9 @@
+D:\範例程式\ch10\UseEvent\bin\Debug\UseEvent.exe.config
+D:\範例程式\ch10\UseEvent\bin\Debug\UseEvent.exe
+D:\範例程式\ch10\UseEvent\bin\Debug\UseEvent.pdb
+D:\範例程式\ch10\UseEvent\bin\Debug\UseEvent.xml
+D:\範例程式\ch10\UseEvent\obj\Debug\UseEvent.Resources.resources
+D:\範例程式\ch10\UseEvent\obj\Debug\UseEvent.vbproj.GenerateResource.Cache
+D:\範例程式\ch10\UseEvent\obj\Debug\UseEvent.exe
+D:\範例程式\ch10\UseEvent\obj\Debug\UseEvent.xml
+D:\範例程式\ch10\UseEvent\obj\Debug\UseEvent.pdb

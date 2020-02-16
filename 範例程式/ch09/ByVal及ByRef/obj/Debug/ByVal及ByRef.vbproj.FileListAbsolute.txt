@@ -1,0 +1,10 @@
+D:\範例程式\ch09\ByVal及ByRef\bin\Debug\ByVal及ByRef.exe.config
+D:\範例程式\ch09\ByVal及ByRef\bin\Debug\ByVal及ByRef.exe
+D:\範例程式\ch09\ByVal及ByRef\bin\Debug\ByVal及ByRef.pdb
+D:\範例程式\ch09\ByVal及ByRef\bin\Debug\ByVal及ByRef.xml
+D:\範例程式\ch09\ByVal及ByRef\obj\Debug\ByVal及ByRef.Form1.resources
+D:\範例程式\ch09\ByVal及ByRef\obj\Debug\ByVal及ByRef.Resources.resources
+D:\範例程式\ch09\ByVal及ByRef\obj\Debug\ByVal及ByRef.vbproj.GenerateResource.Cache
+D:\範例程式\ch09\ByVal及ByRef\obj\Debug\ByVal及ByRef.exe
+D:\範例程式\ch09\ByVal及ByRef\obj\Debug\ByVal及ByRef.xml
+D:\範例程式\ch09\ByVal及ByRef\obj\Debug\ByVal及ByRef.pdb

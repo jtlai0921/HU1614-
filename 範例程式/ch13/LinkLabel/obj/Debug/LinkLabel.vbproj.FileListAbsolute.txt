@@ -1,0 +1,10 @@
+D:\範例程式\ch13\LinkLabel\bin\Debug\LinkLabel.exe.config
+D:\範例程式\ch13\LinkLabel\bin\Debug\LinkLabel.exe
+D:\範例程式\ch13\LinkLabel\bin\Debug\LinkLabel.pdb
+D:\範例程式\ch13\LinkLabel\bin\Debug\LinkLabel.xml
+D:\範例程式\ch13\LinkLabel\obj\Debug\LinkLabel.LinkLabel.resources
+D:\範例程式\ch13\LinkLabel\obj\Debug\LinkLabel.Resources.resources
+D:\範例程式\ch13\LinkLabel\obj\Debug\LinkLabel.vbproj.GenerateResource.Cache
+D:\範例程式\ch13\LinkLabel\obj\Debug\LinkLabel.exe
+D:\範例程式\ch13\LinkLabel\obj\Debug\LinkLabel.xml
+D:\範例程式\ch13\LinkLabel\obj\Debug\LinkLabel.pdb

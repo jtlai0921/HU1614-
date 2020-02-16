@@ -1,0 +1,9 @@
+D:\範例程式\ch10\Fields\bin\Debug\Fields.exe.config
+D:\範例程式\ch10\Fields\bin\Debug\Fields.exe
+D:\範例程式\ch10\Fields\bin\Debug\Fields.pdb
+D:\範例程式\ch10\Fields\bin\Debug\Fields.xml
+D:\範例程式\ch10\Fields\obj\Debug\Fields.Resources.resources
+D:\範例程式\ch10\Fields\obj\Debug\Fields.vbproj.GenerateResource.Cache
+D:\範例程式\ch10\Fields\obj\Debug\Fields.exe
+D:\範例程式\ch10\Fields\obj\Debug\Fields.xml
+D:\範例程式\ch10\Fields\obj\Debug\Fields.pdb

@@ -1,0 +1,10 @@
+D:\範例程式\ch14\ContextMenu\bin\Debug\ContextMenu.exe.config
+D:\範例程式\ch14\ContextMenu\bin\Debug\ContextMenu.exe
+D:\範例程式\ch14\ContextMenu\bin\Debug\ContextMenu.pdb
+D:\範例程式\ch14\ContextMenu\bin\Debug\ContextMenu.xml
+D:\範例程式\ch14\ContextMenu\obj\Debug\ContextMenu.ContextMenu.resources
+D:\範例程式\ch14\ContextMenu\obj\Debug\ContextMenu.Resources.resources
+D:\範例程式\ch14\ContextMenu\obj\Debug\ContextMenu.vbproj.GenerateResource.Cache
+D:\範例程式\ch14\ContextMenu\obj\Debug\ContextMenu.exe
+D:\範例程式\ch14\ContextMenu\obj\Debug\ContextMenu.xml
+D:\範例程式\ch14\ContextMenu\obj\Debug\ContextMenu.pdb

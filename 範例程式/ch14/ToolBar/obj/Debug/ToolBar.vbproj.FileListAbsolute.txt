@@ -1,0 +1,10 @@
+D:\範例程式\ch14\ToolBar\bin\Debug\ToolBar.exe.config
+D:\範例程式\ch14\ToolBar\bin\Debug\ToolBar.exe
+D:\範例程式\ch14\ToolBar\bin\Debug\ToolBar.pdb
+D:\範例程式\ch14\ToolBar\bin\Debug\ToolBar.xml
+D:\範例程式\ch14\ToolBar\obj\Debug\ToolBar.ToolBar.resources
+D:\範例程式\ch14\ToolBar\obj\Debug\ToolBar.Resources.resources
+D:\範例程式\ch14\ToolBar\obj\Debug\ToolBar.vbproj.GenerateResource.Cache
+D:\範例程式\ch14\ToolBar\obj\Debug\ToolBar.exe
+D:\範例程式\ch14\ToolBar\obj\Debug\ToolBar.xml
+D:\範例程式\ch14\ToolBar\obj\Debug\ToolBar.pdb

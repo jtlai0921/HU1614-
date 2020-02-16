@@ -1,0 +1,10 @@
+D:\範例程式\ch09\選擇性參數\bin\Debug\選擇性參數.exe.config
+D:\範例程式\ch09\選擇性參數\bin\Debug\選擇性參數.exe
+D:\範例程式\ch09\選擇性參數\bin\Debug\選擇性參數.pdb
+D:\範例程式\ch09\選擇性參數\bin\Debug\選擇性參數.xml
+D:\範例程式\ch09\選擇性參數\obj\Debug\選擇性參數.Form1.resources
+D:\範例程式\ch09\選擇性參數\obj\Debug\選擇性參數.Resources.resources
+D:\範例程式\ch09\選擇性參數\obj\Debug\選擇性參數.vbproj.GenerateResource.Cache
+D:\範例程式\ch09\選擇性參數\obj\Debug\選擇性參數.exe
+D:\範例程式\ch09\選擇性參數\obj\Debug\選擇性參數.xml
+D:\範例程式\ch09\選擇性參數\obj\Debug\選擇性參數.pdb

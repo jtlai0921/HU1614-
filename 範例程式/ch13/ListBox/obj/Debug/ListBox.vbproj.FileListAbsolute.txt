@@ -1,0 +1,10 @@
+D:\範例程式\ch13\ListBox\bin\Debug\ListBox.exe.config
+D:\範例程式\ch13\ListBox\bin\Debug\ListBox.exe
+D:\範例程式\ch13\ListBox\bin\Debug\ListBox.pdb
+D:\範例程式\ch13\ListBox\bin\Debug\ListBox.xml
+D:\範例程式\ch13\ListBox\obj\Debug\ListBox.ListBox.resources
+D:\範例程式\ch13\ListBox\obj\Debug\ListBox.Resources.resources
+D:\範例程式\ch13\ListBox\obj\Debug\ListBox.vbproj.GenerateResource.Cache
+D:\範例程式\ch13\ListBox\obj\Debug\ListBox.exe
+D:\範例程式\ch13\ListBox\obj\Debug\ListBox.xml
+D:\範例程式\ch13\ListBox\obj\Debug\ListBox.pdb

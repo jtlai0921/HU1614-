@@ -1,0 +1,10 @@
+D:\範例程式\ch07\DoUntil\bin\Debug\DoUntil.exe.config
+D:\範例程式\ch07\DoUntil\bin\Debug\DoUntil.exe
+D:\範例程式\ch07\DoUntil\bin\Debug\DoUntil.pdb
+D:\範例程式\ch07\DoUntil\bin\Debug\DoUntil.xml
+D:\範例程式\ch07\DoUntil\obj\Debug\DoUntil.Form1.resources
+D:\範例程式\ch07\DoUntil\obj\Debug\DoUntil.Resources.resources
+D:\範例程式\ch07\DoUntil\obj\Debug\DoUntil.vbproj.GenerateResource.Cache
+D:\範例程式\ch07\DoUntil\obj\Debug\DoUntil.exe
+D:\範例程式\ch07\DoUntil\obj\Debug\DoUntil.xml
+D:\範例程式\ch07\DoUntil\obj\Debug\DoUntil.pdb

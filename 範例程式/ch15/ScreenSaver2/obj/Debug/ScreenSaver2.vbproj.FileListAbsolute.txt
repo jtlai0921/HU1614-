@@ -1,0 +1,9 @@
+D:\範例程式\ch15\ScreenSaver2\bin\Debug\ScreenSaver2.exe.config
+D:\範例程式\ch15\ScreenSaver2\bin\Debug\ScreenSaver2.exe
+D:\範例程式\ch15\ScreenSaver2\bin\Debug\ScreenSaver2.pdb
+D:\範例程式\ch15\ScreenSaver2\bin\Debug\ScreenSaver2.xml
+D:\範例程式\ch15\ScreenSaver2\obj\Debug\ScreenSaver2.Resources.resources
+D:\範例程式\ch15\ScreenSaver2\obj\Debug\ScreenSaver2.vbproj.GenerateResource.Cache
+D:\範例程式\ch15\ScreenSaver2\obj\Debug\ScreenSaver2.exe
+D:\範例程式\ch15\ScreenSaver2\obj\Debug\ScreenSaver2.xml
+D:\範例程式\ch15\ScreenSaver2\obj\Debug\ScreenSaver2.pdb

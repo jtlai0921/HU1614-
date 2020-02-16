@@ -1,0 +1,10 @@
+D:\範例程式\ch12\剪貼圖片\bin\Debug\剪貼圖片.exe.config
+D:\範例程式\ch12\剪貼圖片\bin\Debug\剪貼圖片.exe
+D:\範例程式\ch12\剪貼圖片\bin\Debug\剪貼圖片.pdb
+D:\範例程式\ch12\剪貼圖片\bin\Debug\剪貼圖片.xml
+D:\範例程式\ch12\剪貼圖片\obj\Debug\剪貼圖片.剪貼圖片.resources
+D:\範例程式\ch12\剪貼圖片\obj\Debug\剪貼圖片.Resources.resources
+D:\範例程式\ch12\剪貼圖片\obj\Debug\剪貼圖片.vbproj.GenerateResource.Cache
+D:\範例程式\ch12\剪貼圖片\obj\Debug\剪貼圖片.exe
+D:\範例程式\ch12\剪貼圖片\obj\Debug\剪貼圖片.xml
+D:\範例程式\ch12\剪貼圖片\obj\Debug\剪貼圖片.pdb

@@ -1,0 +1,10 @@
+D:\範例程式\ch07\WhileEndWhile\bin\Debug\WhileEndWhile.exe.config
+D:\範例程式\ch07\WhileEndWhile\bin\Debug\WhileEndWhile.exe
+D:\範例程式\ch07\WhileEndWhile\bin\Debug\WhileEndWhile.pdb
+D:\範例程式\ch07\WhileEndWhile\bin\Debug\WhileEndWhile.xml
+D:\範例程式\ch07\WhileEndWhile\obj\Debug\WhileEndWhile.Form1.resources
+D:\範例程式\ch07\WhileEndWhile\obj\Debug\WhileEndWhile.Resources.resources
+D:\範例程式\ch07\WhileEndWhile\obj\Debug\WhileEndWhile.vbproj.GenerateResource.Cache
+D:\範例程式\ch07\WhileEndWhile\obj\Debug\WhileEndWhile.exe
+D:\範例程式\ch07\WhileEndWhile\obj\Debug\WhileEndWhile.xml
+D:\範例程式\ch07\WhileEndWhile\obj\Debug\WhileEndWhile.pdb

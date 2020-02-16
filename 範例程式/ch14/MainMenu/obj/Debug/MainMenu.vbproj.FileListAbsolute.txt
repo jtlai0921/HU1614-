@@ -1,0 +1,10 @@
+D:\範例程式\ch14\MainMenu\bin\Debug\MainMenu.exe.config
+D:\範例程式\ch14\MainMenu\bin\Debug\MainMenu.exe
+D:\範例程式\ch14\MainMenu\bin\Debug\MainMenu.pdb
+D:\範例程式\ch14\MainMenu\bin\Debug\MainMenu.xml
+D:\範例程式\ch14\MainMenu\obj\Debug\MainMenu.MainMenu.resources
+D:\範例程式\ch14\MainMenu\obj\Debug\MainMenu.Resources.resources
+D:\範例程式\ch14\MainMenu\obj\Debug\MainMenu.vbproj.GenerateResource.Cache
+D:\範例程式\ch14\MainMenu\obj\Debug\MainMenu.exe
+D:\範例程式\ch14\MainMenu\obj\Debug\MainMenu.xml
+D:\範例程式\ch14\MainMenu\obj\Debug\MainMenu.pdb

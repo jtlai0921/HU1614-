@@ -1,0 +1,9 @@
+D:\範例程式\ch16\自訂例外類別\bin\Debug\自訂例外類別.exe.config
+D:\範例程式\ch16\自訂例外類別\bin\Debug\自訂例外類別.exe
+D:\範例程式\ch16\自訂例外類別\bin\Debug\自訂例外類別.pdb
+D:\範例程式\ch16\自訂例外類別\bin\Debug\自訂例外類別.xml
+D:\範例程式\ch16\自訂例外類別\obj\Debug\自訂例外類別.Resources.resources
+D:\範例程式\ch16\自訂例外類別\obj\Debug\自訂例外類別.vbproj.GenerateResource.Cache
+D:\範例程式\ch16\自訂例外類別\obj\Debug\自訂例外類別.exe
+D:\範例程式\ch16\自訂例外類別\obj\Debug\自訂例外類別.xml
+D:\範例程式\ch16\自訂例外類別\obj\Debug\自訂例外類別.pdb

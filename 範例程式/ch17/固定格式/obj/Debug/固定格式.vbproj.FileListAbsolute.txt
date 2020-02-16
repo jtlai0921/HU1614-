@@ -1,0 +1,9 @@
+D:\範例程式\ch17\固定格式\bin\Debug\固定格式.exe.config
+D:\範例程式\ch17\固定格式\bin\Debug\固定格式.exe
+D:\範例程式\ch17\固定格式\bin\Debug\固定格式.pdb
+D:\範例程式\ch17\固定格式\bin\Debug\固定格式.xml
+D:\範例程式\ch17\固定格式\obj\Debug\固定格式.Resources.resources
+D:\範例程式\ch17\固定格式\obj\Debug\固定格式.vbproj.GenerateResource.Cache
+D:\範例程式\ch17\固定格式\obj\Debug\固定格式.exe
+D:\範例程式\ch17\固定格式\obj\Debug\固定格式.xml
+D:\範例程式\ch17\固定格式\obj\Debug\固定格式.pdb

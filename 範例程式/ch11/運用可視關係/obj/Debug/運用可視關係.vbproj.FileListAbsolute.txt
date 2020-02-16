@@ -1,0 +1,3 @@
+D:\範例程式\ch11\運用可視關係\bin\Debug\運用可視關係.exe.config
+D:\範例程式\ch11\運用可視關係\obj\Debug\運用可視關係.Resources.resources
+D:\範例程式\ch11\運用可視關係\obj\Debug\運用可視關係.vbproj.GenerateResource.Cache

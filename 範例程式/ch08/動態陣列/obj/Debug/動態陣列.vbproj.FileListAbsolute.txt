@@ -1,0 +1,9 @@
+D:\範例程式\ch08\動態陣列\bin\Debug\動態陣列.exe.config
+D:\範例程式\ch08\動態陣列\bin\Debug\動態陣列.exe
+D:\範例程式\ch08\動態陣列\bin\Debug\動態陣列.pdb
+D:\範例程式\ch08\動態陣列\bin\Debug\動態陣列.xml
+D:\範例程式\ch08\動態陣列\obj\Debug\動態陣列.Resources.resources
+D:\範例程式\ch08\動態陣列\obj\Debug\動態陣列.vbproj.GenerateResource.Cache
+D:\範例程式\ch08\動態陣列\obj\Debug\動態陣列.exe
+D:\範例程式\ch08\動態陣列\obj\Debug\動態陣列.xml
+D:\範例程式\ch08\動態陣列\obj\Debug\動態陣列.pdb

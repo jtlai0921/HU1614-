@@ -1,0 +1,9 @@
+D:\範例程式\ch15\DrawEllipse\bin\Debug\DrawEllipse.exe.config
+D:\範例程式\ch15\DrawEllipse\bin\Debug\DrawEllipse.exe
+D:\範例程式\ch15\DrawEllipse\bin\Debug\DrawEllipse.pdb
+D:\範例程式\ch15\DrawEllipse\bin\Debug\DrawEllipse.xml
+D:\範例程式\ch15\DrawEllipse\obj\Debug\DrawEllipse.Resources.resources
+D:\範例程式\ch15\DrawEllipse\obj\Debug\DrawEllipse.vbproj.GenerateResource.Cache
+D:\範例程式\ch15\DrawEllipse\obj\Debug\DrawEllipse.exe
+D:\範例程式\ch15\DrawEllipse\obj\Debug\DrawEllipse.xml
+D:\範例程式\ch15\DrawEllipse\obj\Debug\DrawEllipse.pdb

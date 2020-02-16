@@ -1,0 +1,10 @@
+D:\範例程式\ch09\資料型別判斷\bin\Debug\資料型別判斷.exe.config
+D:\範例程式\ch09\資料型別判斷\bin\Debug\資料型別判斷.exe
+D:\範例程式\ch09\資料型別判斷\bin\Debug\資料型別判斷.pdb
+D:\範例程式\ch09\資料型別判斷\bin\Debug\資料型別判斷.xml
+D:\範例程式\ch09\資料型別判斷\obj\Debug\資料型別判斷.Form1.resources
+D:\範例程式\ch09\資料型別判斷\obj\Debug\資料型別判斷.Resources.resources
+D:\範例程式\ch09\資料型別判斷\obj\Debug\資料型別判斷.vbproj.GenerateResource.Cache
+D:\範例程式\ch09\資料型別判斷\obj\Debug\資料型別判斷.exe
+D:\範例程式\ch09\資料型別判斷\obj\Debug\資料型別判斷.xml
+D:\範例程式\ch09\資料型別判斷\obj\Debug\資料型別判斷.pdb

@@ -1,0 +1,10 @@
+D:\範例程式\ch17\顯示目錄\bin\Debug\顯示目錄.exe.config
+D:\範例程式\ch17\顯示目錄\bin\Debug\顯示目錄.exe
+D:\範例程式\ch17\顯示目錄\bin\Debug\顯示目錄.pdb
+D:\範例程式\ch17\顯示目錄\bin\Debug\顯示目錄.xml
+D:\範例程式\ch17\顯示目錄\obj\Debug\顯示目錄.顯示目錄.resources
+D:\範例程式\ch17\顯示目錄\obj\Debug\顯示目錄.Resources.resources
+D:\範例程式\ch17\顯示目錄\obj\Debug\顯示目錄.vbproj.GenerateResource.Cache
+D:\範例程式\ch17\顯示目錄\obj\Debug\顯示目錄.exe
+D:\範例程式\ch17\顯示目錄\obj\Debug\顯示目錄.xml
+D:\範例程式\ch17\顯示目錄\obj\Debug\顯示目錄.pdb

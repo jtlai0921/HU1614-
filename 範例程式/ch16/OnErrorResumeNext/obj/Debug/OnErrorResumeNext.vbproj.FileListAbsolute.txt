@@ -1,0 +1,9 @@
+D:\範例程式\ch16\OnErrorResumeNext\bin\Debug\OnErrorResumeNext.exe.config
+D:\範例程式\ch16\OnErrorResumeNext\bin\Debug\OnErrorResumeNext.exe
+D:\範例程式\ch16\OnErrorResumeNext\bin\Debug\OnErrorResumeNext.pdb
+D:\範例程式\ch16\OnErrorResumeNext\bin\Debug\OnErrorResumeNext.xml
+D:\範例程式\ch16\OnErrorResumeNext\obj\Debug\OnErrorResumeNext.Resources.resources
+D:\範例程式\ch16\OnErrorResumeNext\obj\Debug\OnErrorResumeNext.vbproj.GenerateResource.Cache
+D:\範例程式\ch16\OnErrorResumeNext\obj\Debug\OnErrorResumeNext.exe
+D:\範例程式\ch16\OnErrorResumeNext\obj\Debug\OnErrorResumeNext.xml
+D:\範例程式\ch16\OnErrorResumeNext\obj\Debug\OnErrorResumeNext.pdb

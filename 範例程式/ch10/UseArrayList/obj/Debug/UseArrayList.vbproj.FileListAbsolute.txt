@@ -1,0 +1,9 @@
+D:\範例程式\ch10\UseArrayList\bin\Debug\UseArrayList.exe.config
+D:\範例程式\ch10\UseArrayList\bin\Debug\UseArrayList.exe
+D:\範例程式\ch10\UseArrayList\bin\Debug\UseArrayList.pdb
+D:\範例程式\ch10\UseArrayList\bin\Debug\UseArrayList.xml
+D:\範例程式\ch10\UseArrayList\obj\Debug\UseArrayList.Resources.resources
+D:\範例程式\ch10\UseArrayList\obj\Debug\UseArrayList.vbproj.GenerateResource.Cache
+D:\範例程式\ch10\UseArrayList\obj\Debug\UseArrayList.exe
+D:\範例程式\ch10\UseArrayList\obj\Debug\UseArrayList.xml
+D:\範例程式\ch10\UseArrayList\obj\Debug\UseArrayList.pdb

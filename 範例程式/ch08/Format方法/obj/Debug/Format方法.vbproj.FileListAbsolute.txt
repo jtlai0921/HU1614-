@@ -1,0 +1,9 @@
+D:\範例程式\ch08\Format方法\bin\Debug\Format方法.exe.config
+D:\範例程式\ch08\Format方法\bin\Debug\Format方法.exe
+D:\範例程式\ch08\Format方法\bin\Debug\Format方法.pdb
+D:\範例程式\ch08\Format方法\bin\Debug\Format方法.xml
+D:\範例程式\ch08\Format方法\obj\Debug\Format方法.Resources.resources
+D:\範例程式\ch08\Format方法\obj\Debug\Format方法.vbproj.GenerateResource.Cache
+D:\範例程式\ch08\Format方法\obj\Debug\Format方法.exe
+D:\範例程式\ch08\Format方法\obj\Debug\Format方法.xml
+D:\範例程式\ch08\Format方法\obj\Debug\Format方法.pdb

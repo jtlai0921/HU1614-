@@ -1,0 +1,1 @@
+D:\範例程式\ch17\刪除目錄\bin\Debug\刪除目錄.exe.config

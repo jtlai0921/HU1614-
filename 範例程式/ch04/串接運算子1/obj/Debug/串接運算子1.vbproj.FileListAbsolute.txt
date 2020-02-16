@@ -1,0 +1,9 @@
+D:\範例程式\ch04\串接運算子1\bin\Debug\串接運算子1.exe.config
+D:\範例程式\ch04\串接運算子1\bin\Debug\串接運算子1.exe
+D:\範例程式\ch04\串接運算子1\bin\Debug\串接運算子1.pdb
+D:\範例程式\ch04\串接運算子1\bin\Debug\串接運算子1.xml
+D:\範例程式\ch04\串接運算子1\obj\Debug\串接運算子1.Resources.resources
+D:\範例程式\ch04\串接運算子1\obj\Debug\串接運算子1.vbproj.GenerateResource.Cache
+D:\範例程式\ch04\串接運算子1\obj\Debug\串接運算子1.exe
+D:\範例程式\ch04\串接運算子1\obj\Debug\串接運算子1.xml
+D:\範例程式\ch04\串接運算子1\obj\Debug\串接運算子1.pdb

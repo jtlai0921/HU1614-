@@ -1,0 +1,9 @@
+D:\範例程式\ch15\SolidBrush\bin\Debug\SolidBrush.exe.config
+D:\範例程式\ch15\SolidBrush\bin\Debug\SolidBrush.exe
+D:\範例程式\ch15\SolidBrush\bin\Debug\SolidBrush.pdb
+D:\範例程式\ch15\SolidBrush\bin\Debug\SolidBrush.xml
+D:\範例程式\ch15\SolidBrush\obj\Debug\SolidBrush.Resources.resources
+D:\範例程式\ch15\SolidBrush\obj\Debug\SolidBrush.vbproj.GenerateResource.Cache
+D:\範例程式\ch15\SolidBrush\obj\Debug\SolidBrush.exe
+D:\範例程式\ch15\SolidBrush\obj\Debug\SolidBrush.xml
+D:\範例程式\ch15\SolidBrush\obj\Debug\SolidBrush.pdb

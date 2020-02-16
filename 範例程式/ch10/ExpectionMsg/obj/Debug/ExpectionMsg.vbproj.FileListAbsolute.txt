@@ -1,0 +1,9 @@
+D:\範例程式\ch10\ExpectionMsg\bin\Debug\ExpectionMsg.exe.config
+D:\範例程式\ch10\ExpectionMsg\bin\Debug\ExpectionMsg.exe
+D:\範例程式\ch10\ExpectionMsg\bin\Debug\ExpectionMsg.pdb
+D:\範例程式\ch10\ExpectionMsg\bin\Debug\ExpectionMsg.xml
+D:\範例程式\ch10\ExpectionMsg\obj\Debug\ExpectionMsg.Resources.resources
+D:\範例程式\ch10\ExpectionMsg\obj\Debug\ExpectionMsg.vbproj.GenerateResource.Cache
+D:\範例程式\ch10\ExpectionMsg\obj\Debug\ExpectionMsg.exe
+D:\範例程式\ch10\ExpectionMsg\obj\Debug\ExpectionMsg.xml
+D:\範例程式\ch10\ExpectionMsg\obj\Debug\ExpectionMsg.pdb

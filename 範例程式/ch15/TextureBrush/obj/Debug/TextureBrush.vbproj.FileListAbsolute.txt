@@ -1,0 +1,9 @@
+D:\範例程式\ch15\TextureBrush\bin\Debug\TextureBrush.exe.config
+D:\範例程式\ch15\TextureBrush\bin\Debug\TextureBrush.exe
+D:\範例程式\ch15\TextureBrush\bin\Debug\TextureBrush.pdb
+D:\範例程式\ch15\TextureBrush\bin\Debug\TextureBrush.xml
+D:\範例程式\ch15\TextureBrush\obj\Debug\TextureBrush.Resources.resources
+D:\範例程式\ch15\TextureBrush\obj\Debug\TextureBrush.vbproj.GenerateResource.Cache
+D:\範例程式\ch15\TextureBrush\obj\Debug\TextureBrush.exe
+D:\範例程式\ch15\TextureBrush\obj\Debug\TextureBrush.xml
+D:\範例程式\ch15\TextureBrush\obj\Debug\TextureBrush.pdb

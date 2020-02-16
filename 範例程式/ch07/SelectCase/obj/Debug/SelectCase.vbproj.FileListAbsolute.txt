@@ -1,0 +1,10 @@
+D:\範例程式\ch07\SelectCase\bin\Debug\SelectCase.exe.config
+D:\範例程式\ch07\SelectCase\bin\Debug\SelectCase.exe
+D:\範例程式\ch07\SelectCase\bin\Debug\SelectCase.pdb
+D:\範例程式\ch07\SelectCase\bin\Debug\SelectCase.xml
+D:\範例程式\ch07\SelectCase\obj\Debug\SelectCase.Form1.resources
+D:\範例程式\ch07\SelectCase\obj\Debug\SelectCase.Resources.resources
+D:\範例程式\ch07\SelectCase\obj\Debug\SelectCase.vbproj.GenerateResource.Cache
+D:\範例程式\ch07\SelectCase\obj\Debug\SelectCase.exe
+D:\範例程式\ch07\SelectCase\obj\Debug\SelectCase.xml
+D:\範例程式\ch07\SelectCase\obj\Debug\SelectCase.pdb

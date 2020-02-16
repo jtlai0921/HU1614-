@@ -1,0 +1,10 @@
+D:\範例程式\ch12\Click滑鼠事件\bin\Debug\Click滑鼠事件.exe.config
+D:\範例程式\ch12\Click滑鼠事件\bin\Debug\Click滑鼠事件.exe
+D:\範例程式\ch12\Click滑鼠事件\bin\Debug\Click滑鼠事件.pdb
+D:\範例程式\ch12\Click滑鼠事件\bin\Debug\Click滑鼠事件.xml
+D:\範例程式\ch12\Click滑鼠事件\obj\Debug\Click滑鼠事件.Click滑鼠事件.resources
+D:\範例程式\ch12\Click滑鼠事件\obj\Debug\Click滑鼠事件.Resources.resources
+D:\範例程式\ch12\Click滑鼠事件\obj\Debug\Click滑鼠事件.vbproj.GenerateResource.Cache
+D:\範例程式\ch12\Click滑鼠事件\obj\Debug\Click滑鼠事件.exe
+D:\範例程式\ch12\Click滑鼠事件\obj\Debug\Click滑鼠事件.xml
+D:\範例程式\ch12\Click滑鼠事件\obj\Debug\Click滑鼠事件.pdb

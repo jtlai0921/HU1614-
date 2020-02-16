@@ -1,0 +1,9 @@
+D:\範例程式\ch10\Method\bin\Debug\Method.exe.config
+D:\範例程式\ch10\Method\bin\Debug\Method.exe
+D:\範例程式\ch10\Method\bin\Debug\Method.pdb
+D:\範例程式\ch10\Method\bin\Debug\Method.xml
+D:\範例程式\ch10\Method\obj\Debug\Method.Resources.resources
+D:\範例程式\ch10\Method\obj\Debug\Method.vbproj.GenerateResource.Cache
+D:\範例程式\ch10\Method\obj\Debug\Method.exe
+D:\範例程式\ch10\Method\obj\Debug\Method.xml
+D:\範例程式\ch10\Method\obj\Debug\Method.pdb

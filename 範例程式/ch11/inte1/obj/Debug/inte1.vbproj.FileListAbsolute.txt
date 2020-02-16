@@ -1,0 +1,9 @@
+D:\範例程式\ch11\inte1\bin\Debug\inte1.exe.config
+D:\範例程式\ch11\inte1\bin\Debug\inte1.exe
+D:\範例程式\ch11\inte1\bin\Debug\inte1.pdb
+D:\範例程式\ch11\inte1\bin\Debug\inte1.xml
+D:\範例程式\ch11\inte1\obj\Debug\inte1.Resources.resources
+D:\範例程式\ch11\inte1\obj\Debug\inte1.vbproj.GenerateResource.Cache
+D:\範例程式\ch11\inte1\obj\Debug\inte1.exe
+D:\範例程式\ch11\inte1\obj\Debug\inte1.xml
+D:\範例程式\ch11\inte1\obj\Debug\inte1.pdb

@@ -1,0 +1,9 @@
+D:\範例程式\ch16\錯誤的例外捕捉\bin\Debug\錯誤的例外捕捉.exe.config
+D:\範例程式\ch16\錯誤的例外捕捉\bin\Debug\錯誤的例外捕捉.exe
+D:\範例程式\ch16\錯誤的例外捕捉\bin\Debug\錯誤的例外捕捉.pdb
+D:\範例程式\ch16\錯誤的例外捕捉\bin\Debug\錯誤的例外捕捉.xml
+D:\範例程式\ch16\錯誤的例外捕捉\obj\Debug\錯誤的例外捕捉.Resources.resources
+D:\範例程式\ch16\錯誤的例外捕捉\obj\Debug\錯誤的例外捕捉.vbproj.GenerateResource.Cache
+D:\範例程式\ch16\錯誤的例外捕捉\obj\Debug\錯誤的例外捕捉.exe
+D:\範例程式\ch16\錯誤的例外捕捉\obj\Debug\錯誤的例外捕捉.xml
+D:\範例程式\ch16\錯誤的例外捕捉\obj\Debug\錯誤的例外捕捉.pdb

@@ -1,0 +1,10 @@
+D:\範例程式\ch12\MouseMove\bin\Debug\MouseMove.exe.config
+D:\範例程式\ch12\MouseMove\bin\Debug\MouseMove.exe
+D:\範例程式\ch12\MouseMove\bin\Debug\MouseMove.pdb
+D:\範例程式\ch12\MouseMove\bin\Debug\MouseMove.xml
+D:\範例程式\ch12\MouseMove\obj\Debug\MouseMove.MouseMove.resources
+D:\範例程式\ch12\MouseMove\obj\Debug\MouseMove.Resources.resources
+D:\範例程式\ch12\MouseMove\obj\Debug\MouseMove.vbproj.GenerateResource.Cache
+D:\範例程式\ch12\MouseMove\obj\Debug\MouseMove.exe
+D:\範例程式\ch12\MouseMove\obj\Debug\MouseMove.xml
+D:\範例程式\ch12\MouseMove\obj\Debug\MouseMove.pdb
